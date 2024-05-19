@@ -4,6 +4,7 @@ import "../components/card/Cards.css"
 import Chart from "react-apexcharts";
 import api from "../api/index"
 import { useQuery, useQueryClient } from "@tanstack/react-query";
+
 const Main = () => {
 
     const queryClient = useQueryClient()
@@ -36,6 +37,7 @@ const Main = () => {
                 .get('http://localhost:3000/api/pie_data')
                 .then((res) => { return res.data }),
     })
+    
     return (
         <main className="m-8 flex flex-col gap-4 items-center sm:items-stretch">
             <Filters />

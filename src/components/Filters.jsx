@@ -1,3 +1,4 @@
+import { DatePickerWithRange } from "./DatePicker";
 import {
     Select,
     SelectContent,
@@ -9,6 +10,7 @@ import {
 const Filters = () => {
     return (
         <section className="flex flex-row-reverse gap-4">
+            <DatePickerWithRange/>
             <Select>
                 <SelectTrigger className="w-[120px] rounded-3xl">
                     <SelectValue placeholder="All Quarters" />
@@ -38,7 +40,6 @@ const Filters = () => {
                     
                 </SelectContent>
             </Select>
-
         </section>
     );
 }
