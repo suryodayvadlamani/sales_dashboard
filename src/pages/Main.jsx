@@ -7,8 +7,6 @@ import { useQuery, useQueryClient } from "@tanstack/react-query";
 
 const Main = () => {
 
-    const queryClient = useQueryClient()
-
     const { data: kpiData } = useQuery({
         queryKey: ['KPIdata'],
         queryFn: () =>
@@ -46,7 +44,7 @@ const Main = () => {
                     return (
                         <div className="parentContainer" key={id}>
                             <Card
-
+                            categories={card.categories}
                                 title={card.title}
                                 color={card.color}
                                 barValue={card.barValue}

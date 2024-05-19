@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Technolgies or Libraries used
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. React
+2. Tailwind
+3. Apex Charts
 
-## Available Scripts
+# Why i have choosen Tailwind
 
-In the project directory, you can run:
+Tailwind is a utility based styling library. Popular for a quick styling. Following are the reasons for considering :
 
-### `npm start`
+1. Faster development process.
+2. Helps you practice your CSS more as the utilities are similar.
+3. All utilities and components are easily customizable.
+4. The overall file size for production is usually small.
+5. Easy to learn if you already know CSS.
+6. Good documentation for learning.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Why Apex charts
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We have many chart libraries for Javascript and few are customised specific to react needs. Among those i have choosen Apex charts for below Reasons:
 
-### `npm test`
+1. Apex charts provide 100+ ready to-use samples
+2. It helps in building interactive data visualizations.
+3. It provides features like zoom in, zoom out and slice default.
+4. When dev time is less and need a rich interface with full of features APex is the best choice
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# mocking api
 
-### `npm run build`
+I have used a json sample data base and i have used axios mock adapter to mock the request as network request and fetch data
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Api calls
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I chose axios as the library to make any api calls as it has lot of inbuilt features, for example intercepting api calls, adding cookies or custom headers e.t.c
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# State management
+I chose Tanstack Query as compartively it is a best library which uses a actual reactive of managing state. It uses observable concept. there are many benifits in using this for example; To fetch data and validate or make any call we have to write a repetitive code in react but it will handle this by default by giving dependecy array as query key

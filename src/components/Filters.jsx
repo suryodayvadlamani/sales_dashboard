@@ -1,45 +1,34 @@
+import { useQuery } from "@tanstack/react-query";
 import { DatePickerWithRange } from "./DatePicker";
-import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
-} from "./UI/Select"
+import { Combobox } from "./UI/Combobox";
+import { useState } from "react";
+import * as React from "react"
+import { addDays, format } from "date-fns"
+import api from "../api";
 
 const Filters = () => {
+    const [product, setProduct] = useState("");
+
+    const [date, setDate] = React.useState({
+        from: new Date(2018, 5, 1),
+        to: addDays(new Date(2018, 5, 1), 30),
+      })
+
+    const { isLoading: productsLoading, data: optionsData } = useQuery({
+        queryKey: ['products', { product }],
+        queryFn: () =>
+            api.get(`http://localhost:3000/api/products?product=${product}&date=${date}`)
+                .then((res) => {
+                    console.log(res); return res.data
+                }),
+    });
     return (
         <section className="flex flex-row-reverse gap-4">
-            <DatePickerWithRange/>
-            <Select>
-                <SelectTrigger className="w-[120px] rounded-3xl">
-                    <SelectValue placeholder="All Quarters" />
-                </SelectTrigger>
-                <SelectContent>
-                    <SelectItem value="ALL">All Quarters</SelectItem>
-                    <SelectItem value="Q1">Q1</SelectItem>
-                    <SelectItem value="Q2">Q2</SelectItem>
-                    <SelectItem value="Q3">Q3</SelectItem>
-                    <SelectItem value="Q4">Q4</SelectItem>
-                </SelectContent>
-            </Select>
-            <Select>
-                <SelectTrigger className="w-[80px] rounded-3xl">
-                    <SelectValue placeholder="year" />
-                </SelectTrigger>
-                <SelectContent>
-                    <SelectItem value="2016">2016</SelectItem>
-                    <SelectItem value="2017">2017</SelectItem>
-                    <SelectItem value="2018">2018</SelectItem>
-                    <SelectItem value="2019">2019</SelectItem>
-                    <SelectItem value="2020">2020</SelectItem>
-                    <SelectItem value="2021">2021</SelectItem>
-                    <SelectItem value="2022">2022</SelectItem>
-                    <SelectItem value="2023">2023</SelectItem>
-                    
-                    
-                </SelectContent>
-            </Select>
+            <DatePickerWithRange date={date} setDate={setDate}/>
+            {!productsLoading && optionsData.length && <Combobox options={optionsData}
+                value={product} setValue={setProduct}
+            />}
+            
         </section>
     );
 }
