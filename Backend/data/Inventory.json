@@ -1,0 +1,4802 @@
+[
+    {
+        "inventory_id": "3af9b585-f06a-442f-8f7e-f36946b3e638",
+        "vehicle_id": "bd18dd34-383c-4d21-8169-df7162033087",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-09-27",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "270aaade-42bb-4cf0-b56c-dcc562530446",
+        "vehicle_id": "04387d9a-e683-4fd6-aef4-659246042c18",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-09-23",
+        "status": "reserved",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "4a7b7f82-7300-4b31-a50b-92ed8eaf8440",
+        "vehicle_id": "99536904-5043-49c6-b96f-77f9aa6fd5f2",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-04-05",
+        "status": "sold",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "8a6c80ea-44da-41db-8942-b3b03736b3ce",
+        "vehicle_id": "93e34ede-a511-440e-9e84-908c320ec426",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-07-05",
+        "status": "available",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "9158175f-b462-4445-8d41-f14bd270127b",
+        "vehicle_id": "19da97b9-b2aa-4cae-a29a-811cdefbcf67",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2018-06-03",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "f0845fcd-b10a-47e5-b583-5753b7308651",
+        "vehicle_id": "e7ab022f-a75d-4f28-a5b2-a8f6bbc38e12",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-10-04",
+        "status": "available",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "f5209779-553b-4ff8-aa10-1baa34d3c467",
+        "vehicle_id": "4e9e3b70-1d71-4f45-97cd-193b845deffd",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-06-07",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "c00754d5-5b03-4771-b6e8-f3c3e65aefa6",
+        "vehicle_id": "76fe3714-361c-4203-a234-6afc204dd3e1",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2018-06-25",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "902235ec-7778-4c54-8ba1-73ec08b06086",
+        "vehicle_id": "fdc49c8b-b11f-40d7-96ed-e3685fc2ff6e",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-03-30",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "34852a86-a2ce-4471-bc1d-635827fff55a",
+        "vehicle_id": "80b04027-fbd4-4474-8abb-84176bcaaa35",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2020-12-06",
+        "status": "reserved",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "97020025-d376-4f88-a46f-e88ae4cc4b03",
+        "vehicle_id": "646cd129-b36d-4b78-9ef0-f310a1de0c18",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-04-15",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "49d2b9d7-0da7-4c2f-8ad7-df6d6b8f5bcb",
+        "vehicle_id": "534b95eb-5192-49b2-b18f-b159c77838c5",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-03-20",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "31baabee-14bd-4062-99fa-e346a20829e2",
+        "vehicle_id": "76fe3714-361c-4203-a234-6afc204dd3e1",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-12-29",
+        "status": "maintenance",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "5032132d-45c1-4133-8df2-1cb8a55b9265",
+        "vehicle_id": "6d273779-95bd-4d6f-bb07-6f3b447a3cda",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-12-16",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "daa68daa-f531-47a5-966e-ff053fa89883",
+        "vehicle_id": "710d05d3-6f28-4c50-8fd6-6604dbb450ff",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-08-20",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "de35a71d-3d65-4be5-b385-1607110f9a36",
+        "vehicle_id": "cb97a1f2-2c35-4c9c-86d5-03c4f7b58db4",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-01-01",
+        "status": "reserved",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "e33d9dfc-d7f8-4ece-ae48-99977287dac7",
+        "vehicle_id": "dfcf9236-454f-4d66-a0a4-5186e7c73dbc",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-03-01",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "47743d6d-877f-4770-b9ed-c1f4d7d34dbf",
+        "vehicle_id": "7fae38cf-8142-4e28-86b9-751b0052c039",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-11-30",
+        "status": "available",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "4418e027-7237-4e23-ae69-65c6079d0501",
+        "vehicle_id": "9faa133c-9c30-489a-b1c4-bd558c9d1edd",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-08-31",
+        "status": "available",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "53215b49-502c-41f8-8bdd-47cfd6d285b8",
+        "vehicle_id": "940d7f15-0613-4695-b278-f8d884434f49",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-11-03",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "a120aa25-265f-4c1a-9f5d-f6a6df48c340",
+        "vehicle_id": "bec8a17d-12ae-461d-9a50-0d2e81f02cf2",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-12-24",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "3c809f60-2442-4382-936c-47ef6039fa4b",
+        "vehicle_id": "f9f6a3a8-4628-4f5f-9361-d578242070e2",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-03-23",
+        "status": "sold",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "c3c4749e-aabc-421c-a572-93e742afc3fe",
+        "vehicle_id": "9246d743-1847-4252-bbc3-0cd26167bb2a",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-03-29",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "77bd4896-e4d4-4609-9cdc-e4eb5d469cb9",
+        "vehicle_id": "4d1f49f9-8570-48df-a882-f5652b4246df",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-01-19",
+        "status": "maintenance",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "2b6f9b14-0edf-49d0-beaf-a4a451c037a7",
+        "vehicle_id": "1abe3e05-eb54-4bb6-a047-4b19edfee7c8",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-06-15",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "0df7e7bc-dacd-4841-a0c0-2cee08f622ac",
+        "vehicle_id": "7e1774ed-59af-4003-aae2-729003051b7d",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-04-14",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "2fc8c5ee-5363-4603-ae2a-18b273f87cb7",
+        "vehicle_id": "33794e43-10cc-473a-80d0-af52ab3140da",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2019-09-27",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "cc68f827-7ad0-4d85-b418-23041dd7655e",
+        "vehicle_id": "8caa0027-46f2-4c52-bc24-d4b328cec409",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2019-12-11",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "e40ece21-c00c-46be-926e-470f3bd57b56",
+        "vehicle_id": "d8c372d5-5045-4f57-a6fc-0e4b55c914fa",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2024-02-14",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "608a3b03-a1b4-43f1-a4b3-79038060874a",
+        "vehicle_id": "8387a215-25e1-4395-85f3-7fe16cc585ea",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-08-17",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "d09f04e3-15b7-43e5-93d4-b817f9edb3cc",
+        "vehicle_id": "c38ec7b2-f73c-4f6b-a03d-0336e5f5e738",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-05-08",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "7f71b69b-8ffe-40e9-a7b0-5c56190d7557",
+        "vehicle_id": "ff075cbf-c249-407b-97cc-32b2d7dfc949",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-12-29",
+        "status": "reserved",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "5c9d40d8-dce4-434b-9358-6ccf2770e019",
+        "vehicle_id": "e4d2a7cf-2b2e-4584-93ab-2b2196c60958",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-12-11",
+        "status": "sold",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "157f2e2a-080e-488a-8381-c765f8bb6a8f",
+        "vehicle_id": "3916a47b-9b86-435e-a307-5e07a7029e1c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-05-26",
+        "status": "maintenance",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "b351421e-6368-4ad7-9e51-5430149546c9",
+        "vehicle_id": "7569a9c1-e882-4678-a985-12910312232c",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2020-08-29",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "f5d5d50f-5d6b-425e-a362-b25054dd9bbc",
+        "vehicle_id": "3c92265e-f34d-4b3b-8fac-45ed3ac62671",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-10-12",
+        "status": "sold",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "f8c7bf06-5e77-4e70-ab85-be75505d0210",
+        "vehicle_id": "e0c34759-109d-4871-883e-dbeda8ae1ba9",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2024-05-01",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "3c52ee32-1b7a-4e1a-a49d-f857404485bf",
+        "vehicle_id": "907d63a9-fd22-4261-a025-7abc9f74e5ab",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2020-01-18",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "a68871ea-74e0-45fc-9871-9277285b207a",
+        "vehicle_id": "5304dc58-0722-421e-823f-6c5c539f38cf",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-11-14",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "5ff799da-305c-4aa4-a42f-862e2d9b7412",
+        "vehicle_id": "eb562674-8a24-440f-8c5d-923d1912ca7f",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-12-04",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "74a5898d-ec3d-41cf-bd78-9029f7c497a3",
+        "vehicle_id": "d099d44a-889a-46da-8f1d-4b23f5d0f13c",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-04-03",
+        "status": "maintenance",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "b09a0936-cbc1-4d5a-aa81-3f16fa8a299e",
+        "vehicle_id": "e2b3bad1-ea9f-40e7-a115-b4c28af4cc14",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-02-03",
+        "status": "reserved",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "9f382995-a764-4029-9c94-82fe13524127",
+        "vehicle_id": "c6d396d6-1a4c-484f-995d-71ff87d9aa40",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-04-24",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "822f6482-2018-4045-808d-cd5b3afc63a8",
+        "vehicle_id": "82e1ea36-22ff-4129-a713-cd020772eacf",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-10-02",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "216df79c-c79b-4829-ba2c-ed44fcced084",
+        "vehicle_id": "fc0aca7c-b9c1-4a8b-9d9a-936796fcd516",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-11-27",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "b2c854ad-8575-48c9-be4a-0bb40966682a",
+        "vehicle_id": "2c3b976d-1869-462a-af84-11572f6237c2",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-02-22",
+        "status": "maintenance",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "c47c0301-ada4-4ac1-adff-f6df45e34233",
+        "vehicle_id": "df75351e-05b7-4923-aa9c-b0ea89ed370c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2024-01-18",
+        "status": "sold",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "d3f79f73-66a6-4cbb-9d64-53123107b37a",
+        "vehicle_id": "40840947-55d5-4fc4-90cb-0543d83e2211",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-04-05",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "6af0fbb7-7a32-4072-a753-95acab99ff48",
+        "vehicle_id": "b8cffb76-e48c-4fe9-b6da-46c347349851",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-10-09",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "e8c51dd7-8409-45cd-b02b-e17c67439e6e",
+        "vehicle_id": "f41c7a9f-aa48-414b-9420-b2905c80e7da",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-10-15",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "6bb28f62-2b97-4fee-8b51-c25c3f099bb4",
+        "vehicle_id": "9ba4537b-dcc3-4b39-a6d1-ffc565346c3a",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-05-23",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "37bd6e3a-c2f6-4cac-b199-27900208fbb4",
+        "vehicle_id": "49b1dfac-17ca-4732-b8d1-0f202bce9b00",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-07-16",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "f67385c7-5d3f-4edc-8003-edcdba0109e1",
+        "vehicle_id": "ccfea976-c57c-4348-b450-d5f54d0aba1d",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-09-11",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "074c5aed-b7fb-4f31-aaed-1ac3fb511ae0",
+        "vehicle_id": "dfcf9236-454f-4d66-a0a4-5186e7c73dbc",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-07-18",
+        "status": "available",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "6ccf973a-0f48-4e44-ad83-87fc57301c65",
+        "vehicle_id": "1971e5f5-4f61-418f-9033-019df473be32",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-05-02",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "cdd7efd0-d76f-4518-85f3-788d5d3362ff",
+        "vehicle_id": "d63640d2-26b7-4c05-b092-a7360e6066b0",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-01-02",
+        "status": "sold",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "3d7c37ac-b9ef-40f8-88e9-6e2b5f7c1d28",
+        "vehicle_id": "7ee119d5-ec3e-43fa-b171-a8a0b1fecb3d",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2024-03-24",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "47542a6c-1e24-43dd-8630-8be03d6c15dd",
+        "vehicle_id": "afa7bb53-3e43-49a8-98ae-2ba109c79df2",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-07-08",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "cc269121-aaa5-41a2-9692-e07e6288f498",
+        "vehicle_id": "ea7995b1-98c0-4ac6-8bd1-ddaae808d894",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-09-01",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "0322865f-1c13-47c7-996b-391fd20f0c39",
+        "vehicle_id": "579e3b0e-f329-4661-ab29-156f38e1d3a3",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-08-25",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "bcbf1acc-443e-476e-9f8a-5c1f159069e2",
+        "vehicle_id": "2ded48e3-a190-43e5-9976-20b732f37327",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-03-13",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "698ecf0b-1773-4d96-b8a8-576366a30cb0",
+        "vehicle_id": "ada8dab6-a1bc-4a6d-a28b-3b38d6922ca0",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-08-22",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "578791b0-db1f-472a-ae58-e74d71541a6d",
+        "vehicle_id": "53a101ae-a448-44f9-b0bd-244c594052ee",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-06-01",
+        "status": "reserved",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "94e2e9e0-bfe5-4a63-b438-b65acf6d2a63",
+        "vehicle_id": "6408eff4-7ac9-4282-81b6-1377688b6420",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-12-07",
+        "status": "reserved",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "eeac9a8e-3e4a-48e0-a5de-a083c5538a48",
+        "vehicle_id": "53a101ae-a448-44f9-b0bd-244c594052ee",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-06-27",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "d84eec9f-296e-4c0b-8c6e-0a106b47e92f",
+        "vehicle_id": "69354bf6-396c-4e73-983a-1bf73ae000ad",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-10-28",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "405adc0b-d5ca-44fc-9fe9-e5dcb34e3549",
+        "vehicle_id": "6fc81caa-4b1c-4918-b6a2-32b31281b942",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-09-26",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "c07a6ebb-e825-4bed-bab6-be959fce0ab2",
+        "vehicle_id": "d345e5bd-e000-4a3d-add1-1d2135e5f624",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2024-01-08",
+        "status": "maintenance",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "4c70b54e-b0a3-43a4-bc83-49077799d5c5",
+        "vehicle_id": "20ac9cbf-a0be-4d57-8344-e34dd2146111",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-03-07",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "8fb4dcbd-9486-49a6-a72a-2430c672de40",
+        "vehicle_id": "4dce0699-09b4-4934-bc8b-0d8cc3dc798e",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2018-08-07",
+        "status": "sold",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "1fb39282-5729-4503-b3f7-ab6f111e30cf",
+        "vehicle_id": "f241fb52-8666-41f0-bea0-92a286d03471",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-05-28",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "cd206cd9-d2dc-4939-a20f-f0b48c977c51",
+        "vehicle_id": "f82d5dfe-095a-41c8-bfb4-9207b20b6bfb",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-10-23",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "1373b07f-4b07-4381-a400-3a7d7f16c6c9",
+        "vehicle_id": "65eaa438-0366-424d-a9c5-cd43b1b526dd",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-07-10",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "df8746e3-42e1-40cf-91c9-b5f36d93ac79",
+        "vehicle_id": "79a18971-d0b8-4bec-9dec-5212ef77de93",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-12-15",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "e881cab4-540a-41cd-a5d6-de4b43883142",
+        "vehicle_id": "1d3a9481-3801-428b-a5fa-71a2eb4f56e7",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-05-24",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "48dd58d9-e8d2-4dee-b1a7-e7e800fc46e8",
+        "vehicle_id": "5c9bf9fd-cb8f-4a2e-9d8c-29487212223e",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2024-02-23",
+        "status": "reserved",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "eb5a6bc0-a307-4da9-9746-479a3bebff04",
+        "vehicle_id": "9138ff6f-9971-4175-a21b-a7b863b8864e",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-05-26",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "a1d1c5cb-0ece-45c2-a69c-9388b4126758",
+        "vehicle_id": "81ff2716-0a5a-45ad-b86b-1e084701d4a2",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-08-18",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "603f8d22-59d6-410e-9027-657f8baec9e0",
+        "vehicle_id": "6d5823f0-53bd-48e8-85ee-86d2b6f50576",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2022-09-10",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "21649f1a-0b45-4d9e-83f7-67e120698eba",
+        "vehicle_id": "8b1fa288-74a0-4a16-9831-9e2551bc6ecb",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-08-02",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "7e899710-3000-4add-925c-84b24cb6d1e4",
+        "vehicle_id": "3fdb8bb7-4ef0-4b9c-903b-c8827ec797dc",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2018-07-19",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "cae65ae0-a103-43d6-b9d1-49158a0b05dc",
+        "vehicle_id": "4ee65acc-5714-4d12-b0a9-97eeabcb4ae7",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2018-12-12",
+        "status": "reserved",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "d17587c3-9319-46b7-815e-e0f4199cbb8b",
+        "vehicle_id": "30ff0cb0-563b-49cd-8d92-b23e27cd6966",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-06-15",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "6e807487-9c36-40ae-b639-18870eec34ce",
+        "vehicle_id": "e0889b27-30aa-49e2-aa40-d0b4533d5c10",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-06-01",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "58eba28e-914b-4a05-b86b-75b3339ec52f",
+        "vehicle_id": "d8a677b1-3340-44f4-9106-594ccd804d6f",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-10-07",
+        "status": "reserved",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "2997a121-5bbc-4cfe-99d3-b9bd00e5a4a4",
+        "vehicle_id": "ab039e33-ef21-4f84-97a6-303fb6c1b9bc",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2023-09-28",
+        "status": "reserved",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "361ef893-224e-4164-8da5-bfc83c6c25ca",
+        "vehicle_id": "a210fc76-2916-491c-b201-77b8657bf9ad",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-03-14",
+        "status": "reserved",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "e897a6af-b866-4994-9815-5e1b0b20cab4",
+        "vehicle_id": "ded0a440-94a8-4d97-9432-60ce6661b18b",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-08-21",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "f68a30bf-2e81-46c4-a617-bb021cb451c3",
+        "vehicle_id": "c6d396d6-1a4c-484f-995d-71ff87d9aa40",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-12-30",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "e6aea319-fea3-4b17-8764-f8ea4fc59380",
+        "vehicle_id": "a8280180-fa4a-4026-9be8-29329c5b59da",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2020-08-30",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "d129c3ba-714d-4894-9194-53fcd7fe71b8",
+        "vehicle_id": "646cd129-b36d-4b78-9ef0-f310a1de0c18",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-06-29",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "5a9bb177-c807-49bf-9b29-e27f68e57966",
+        "vehicle_id": "91c76c91-17b2-477b-bb46-b515a0dd66f1",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-07-10",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "9e18f6be-620a-449a-b481-9bde4175cb20",
+        "vehicle_id": "b51a90b3-a7ad-4b4c-ad8f-7a2e238786c7",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-06-10",
+        "status": "reserved",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "cde473ac-6cf8-4760-b0ae-048d9d06a98b",
+        "vehicle_id": "bf685a6e-16af-44ee-8d02-c0e6380d961c",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-06-19",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "0515e8ed-54b0-43f7-9cae-ec7bc8848d71",
+        "vehicle_id": "c6094e67-2c2f-4712-a298-73adf4258fde",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-12-07",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "303ccd64-f1c6-4e8a-867a-e1b9dc96e60f",
+        "vehicle_id": "366fa90e-202d-4531-a672-c60522f93009",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-03-23",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "7cbe77ab-eecb-4602-95bd-5ad5b3e69a27",
+        "vehicle_id": "f241fb52-8666-41f0-bea0-92a286d03471",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-11-27",
+        "status": "available",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "da1f3412-82b5-492f-a2f1-856ceeb16a1c",
+        "vehicle_id": "0ecc2344-a947-4fd1-b37f-52cd939b5ae1",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-09-21",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "40fa284a-3c8d-4ca0-92ff-8a676f5d8c22",
+        "vehicle_id": "79b4a32c-ccd3-44a1-b396-9e55bdcac8d2",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-12-16",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "6c920116-06f7-473c-92ee-fe02d276d943",
+        "vehicle_id": "f60d8729-7d5b-45cc-a4eb-128cddec7fc4",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2022-10-01",
+        "status": "sold",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "0464e9cb-e4b2-48d6-a92f-c1a230341643",
+        "vehicle_id": "7e569511-6ae3-475b-96d1-a184ac6d81d6",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2019-05-04",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "5377daf2-1a50-4e5b-b6fe-658a44005407",
+        "vehicle_id": "3b44a51e-af84-4765-b3f7-038660f564b7",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2024-03-14",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "86e641be-5366-4dfe-b411-22697a137d19",
+        "vehicle_id": "b33ba7b7-33f2-4f75-90cb-a2c5d3c6c091",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2022-03-15",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "4f8408e9-3a62-4576-9bd6-87b9f68b3380",
+        "vehicle_id": "80b04027-fbd4-4474-8abb-84176bcaaa35",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-07-15",
+        "status": "reserved",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "58e86a23-bffd-4091-9e38-2954e850ebc9",
+        "vehicle_id": "b7567600-7883-4738-80c2-3d0e3c3ab570",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-11-09",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "71fd68bd-383f-4bf2-b3a8-aa8aa521fe93",
+        "vehicle_id": "8eea2a03-703e-4ab2-8812-222d8eef66f9",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-07-16",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "29221190-c9e3-47ba-bc70-bbab02a1cf96",
+        "vehicle_id": "2007205a-67ab-4aa9-942c-1db4761ac166",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-06-28",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "f08a5601-d24d-4901-86bf-8c0da8089d96",
+        "vehicle_id": "eae9c3af-def0-4fc8-9c84-be7df3e147ad",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-10-02",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "1cded69c-7b5f-4e26-b9d1-f978abeb96e1",
+        "vehicle_id": "003b8594-9553-44b0-97bb-2090b13e3eab",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-02-15",
+        "status": "maintenance",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "09a9c179-851d-44ac-adb1-57382ad71b29",
+        "vehicle_id": "f8a4a487-32c1-4b97-ac4b-c6182d2c0cfd",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-07-14",
+        "status": "sold",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "227e3803-75eb-4697-9389-1138a796201c",
+        "vehicle_id": "92c35d53-b296-4211-b293-b078461efc5c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-03-22",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "3034701c-56f4-4b0e-95a4-4b2ec1549027",
+        "vehicle_id": "a70929da-a7d9-4151-8dc8-15cfb5c183c9",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2018-09-03",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "d10aeecd-4b4f-4f6c-9727-e0314de2efb0",
+        "vehicle_id": "0654b5f1-8339-4b3d-bdb1-394569376c23",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2024-03-27",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "13200449-9890-468e-9d64-34109a0b658d",
+        "vehicle_id": "2017537f-0102-408a-8e91-686ac0650be3",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-03-26",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "0ba26e3b-c516-4950-ad4d-f61df27ed248",
+        "vehicle_id": "db24b5c7-fa24-4ca8-b81f-a71fbff5b498",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-08-02",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "8ee548ec-b1a8-4a39-99e0-8fa4a2fdff34",
+        "vehicle_id": "81a10ba5-ccae-4dba-972f-f18ccf27747b",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2024-04-29",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "75535bb1-ceaf-48d5-983f-55c5f72666de",
+        "vehicle_id": "534b95eb-5192-49b2-b18f-b159c77838c5",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-06-13",
+        "status": "maintenance",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "4f10d8b0-4fd8-4268-bd1e-53b7672cd265",
+        "vehicle_id": "8634b792-8986-406f-ad6d-62ed65e0a25f",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-01-20",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "58add1fd-39b3-4bcf-b428-2d280c7ea699",
+        "vehicle_id": "36e4866a-15da-4f20-8389-820c24f19d2f",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-01-01",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "f64fafac-a2e7-4ab0-952b-6be64e7ade7f",
+        "vehicle_id": "0760a080-a390-4ff1-bf1c-342a66d892af",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-01-26",
+        "status": "sold",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "f98aae6d-0088-4540-ae1e-0747880918ef",
+        "vehicle_id": "6453c914-516e-4322-b51c-b5b9a31f1b13",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-11-24",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "66403e2d-e810-4fc9-9cbe-52db61be1430",
+        "vehicle_id": "31c7e6c3-4f61-4b60-9297-7541b6b2d5a7",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2018-08-20",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "a3450b89-73e9-4b89-b4ad-68ccf5500e95",
+        "vehicle_id": "a35512a3-7c21-4ab5-9da4-1e09591d7060",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-06-01",
+        "status": "sold",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "a7c269a7-9d28-47cc-98b0-499f77928899",
+        "vehicle_id": "7ed66c11-8ca7-4258-a270-97b9bc4115dc",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-09-09",
+        "status": "sold",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "2b7b799a-da68-425d-a768-b44f49f81f9c",
+        "vehicle_id": "8e3a7194-9838-4e88-af04-f4cae1daa5c1",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2024-03-18",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "418e542f-a2cb-4625-82f2-6fa55596e871",
+        "vehicle_id": "effec805-3c5b-4cfa-a2f2-670bc252dc3d",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-01-03",
+        "status": "sold",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "e7a8d87c-2e6a-4ece-96ff-03b0bdd8f50f",
+        "vehicle_id": "4abd66ff-58a2-40fe-9675-1a6f950b0245",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-08-22",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "515579e1-bade-4bcb-8f2d-e482b9a9d7c8",
+        "vehicle_id": "7ce018fd-6e1b-430f-88c0-a04d6ad2e92a",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2022-04-13",
+        "status": "reserved",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "5d8f8c4a-0f3b-4ff4-86a2-545ba60a2475",
+        "vehicle_id": "573d315e-3f05-4dc1-b4ae-2fab9775bc3b",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-03-14",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "d9f0a8f6-1c34-4dff-995a-08173a1179ee",
+        "vehicle_id": "622a6619-f6de-47ab-a3d6-c3fb6dde5b6c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-03-19",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "955bf1c6-26c8-4dcd-a8d1-6ed215ce9e84",
+        "vehicle_id": "22151a4a-4e2e-4b08-80e7-d666bfcbcfea",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-11-12",
+        "status": "available",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "ec50ada2-bd5c-44b3-8663-728ed9700ad3",
+        "vehicle_id": "611592b6-afe5-4ffa-8bf3-2fbbdcfa8f01",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-08-29",
+        "status": "available",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "af66ddc0-635e-4fa7-bfef-a7c6304c6b3d",
+        "vehicle_id": "bbad72e3-6496-4b69-9456-30604c50ba19",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-07-27",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "cd018e93-bbb3-48b8-aa47-3e8da9b3b037",
+        "vehicle_id": "380dffde-39fc-4101-b3b6-e7248a6292cc",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-06-09",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "05c8fc14-d992-4a7c-886a-4ec7e1424e01",
+        "vehicle_id": "0fe04fbe-157f-492b-854f-50d7a17912c4",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-02-08",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "78a07267-621e-4d3e-959f-d6acfd22352a",
+        "vehicle_id": "e65c4952-5083-4de4-acbe-e77bef2cb379",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-08-27",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "10ed1afa-6218-4809-beda-6458d23368ac",
+        "vehicle_id": "808883ce-b5fb-4eae-b798-17bbf0723714",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-10-29",
+        "status": "sold",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "244c849f-f691-4aba-a319-440a21852ca9",
+        "vehicle_id": "387acb3d-718a-493a-9d53-01b1705a6feb",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-09-09",
+        "status": "maintenance",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "37b48d4a-37f2-41f8-a133-5deba9a77d9d",
+        "vehicle_id": "79b4a32c-ccd3-44a1-b396-9e55bdcac8d2",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-05-02",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "94991752-1780-4443-9dc0-f0d67ff1353d",
+        "vehicle_id": "d4ba0da5-4b9b-4a74-9fc1-2402cd8d7cc7",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2018-07-07",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "0c635e30-c120-417d-a6d4-44c23712d78a",
+        "vehicle_id": "eece5116-d5d2-44e3-bb50-8acfc80c8f19",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-09-06",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "941f9ec1-8d3c-41ce-b504-7614d2f8b78d",
+        "vehicle_id": "46a9c4ca-7eac-4223-822e-a96ad0ec0ae6",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-09-26",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "51495cca-26cd-452d-86f0-435a43e7092d",
+        "vehicle_id": "6df50d51-1361-4030-a520-173d0e374406",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-09-29",
+        "status": "sold",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "1b7efc47-65fb-494d-a8f0-ddb5ae457773",
+        "vehicle_id": "33349d70-8f95-4345-8e26-1b1b23b64d01",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-03-21",
+        "status": "sold",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "1eca3b10-a900-4558-aa0b-f9ec6a69da5d",
+        "vehicle_id": "79b4a32c-ccd3-44a1-b396-9e55bdcac8d2",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-12-10",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "be31c3bf-e943-4206-82d2-03c0571c78c6",
+        "vehicle_id": "69354bf6-396c-4e73-983a-1bf73ae000ad",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-08-07",
+        "status": "available",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "48b86b8e-9673-4116-98a2-72951b9a204b",
+        "vehicle_id": "4d1f49f9-8570-48df-a882-f5652b4246df",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-12-04",
+        "status": "reserved",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "cafa135a-287a-43f2-91a8-023586bfefd0",
+        "vehicle_id": "f7b17c7e-e570-44c5-8a97-a3398b623cd7",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-12-02",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "c9e15aff-8c24-4cfa-9fb3-1d57e8d2c167",
+        "vehicle_id": "26f0959c-c83a-4171-9319-7feddd1e35b4",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-08-12",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "2575fabf-0bb2-4b62-9108-5d9071c60f5e",
+        "vehicle_id": "33d69a61-3e57-417d-ac47-38ea01263091",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-04-15",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "6b611f2f-b12e-46d9-95e9-afb274fe96a6",
+        "vehicle_id": "d6eb4f6b-703b-477d-96f0-ad1ccb01cc79",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-08-14",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "cae6b336-82b5-403a-a223-77c18b962c66",
+        "vehicle_id": "7dafb0a7-7d1a-4635-a7db-d6c00a260c45",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-04-23",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "d1ad0bd4-92d8-4eba-8193-dc5076a776e4",
+        "vehicle_id": "8e5fc6a0-2a73-4a1c-b57c-26aed2a3000a",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2023-10-30",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "385a3cc4-1a60-4501-9e0a-bdad6478c9be",
+        "vehicle_id": "f241fb52-8666-41f0-bea0-92a286d03471",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-01-10",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "fabb9071-283d-49be-a7c4-7e74746d3ad8",
+        "vehicle_id": "7591e78d-2856-49f9-9739-e694d2b82317",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-09-10",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "6735bf90-129c-469b-9df7-75aba37cd777",
+        "vehicle_id": "db241149-fc45-4ab6-a678-521d9f7c8b8f",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-03-10",
+        "status": "reserved",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "367c7871-370f-43e5-89f2-10ee62949fc7",
+        "vehicle_id": "0ecc2344-a947-4fd1-b37f-52cd939b5ae1",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2023-06-07",
+        "status": "available",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "b79fe3d5-fa44-42cd-b797-0af9e3dce651",
+        "vehicle_id": "a0ffa094-11ea-41c6-bf03-b83f7850bdb0",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-03-08",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "ab723680-1add-4b16-85cc-0e04862700e2",
+        "vehicle_id": "bd4f95dd-c04d-4544-b130-64894660e4d3",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-09-24",
+        "status": "sold",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "a345f909-14ec-4844-9c2d-2a539c202895",
+        "vehicle_id": "15a6085a-aac0-47f9-94b9-e253d99de3ce",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-10-15",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "735808cc-3e30-4d40-a27b-8fd7181a4a87",
+        "vehicle_id": "ab039e33-ef21-4f84-97a6-303fb6c1b9bc",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-04-12",
+        "status": "reserved",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "ee31a977-7814-4fa3-be1c-e1b31f3f88cc",
+        "vehicle_id": "9246d743-1847-4252-bbc3-0cd26167bb2a",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-10-03",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "0baf7f84-0653-4c0e-8775-34fbc7e9e68d",
+        "vehicle_id": "8ad47e1c-5b3e-4552-b624-74938f450fa5",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-11-10",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "59a76d61-7013-45ff-96ce-b4e9b3bd166d",
+        "vehicle_id": "adef067f-475c-4766-8883-9853b4caabdd",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-04-14",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "a28763a8-7abd-4037-80a9-35fdf9767a7d",
+        "vehicle_id": "d092a09c-7f86-41d3-9ef1-f411ece43799",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-08-10",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "af32da01-7dfd-44c7-907d-bf46ba907a47",
+        "vehicle_id": "65dc30f6-f58d-41d8-9b9c-e2ad06db878b",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-10-23",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "e2c9d9df-7089-4483-b896-be6d568d2036",
+        "vehicle_id": "440ff939-face-4b75-abc8-09ad9fab0f84",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-05-25",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "3c50f7d6-e95d-47da-b354-bc5295fb4f01",
+        "vehicle_id": "1412781a-2e11-49c7-a038-7705ca52bb78",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2019-12-24",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "1c269fd1-e8ee-40a3-9c14-0f19007a958c",
+        "vehicle_id": "3638d09d-5e8e-46c0-b4a6-ea041b04bd2d",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-06-19",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "5478b0ac-2114-4c53-adef-d6256ef25def",
+        "vehicle_id": "ab42bc7e-e1e6-4221-9325-11e64e36a7fa",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-11-12",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "764e013e-1081-49e0-8ebd-9b785503a38f",
+        "vehicle_id": "b1c86e86-002a-405f-9947-a905700bdd3d",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-09-05",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "c44f1c2b-4f33-461e-8589-de2982f45100",
+        "vehicle_id": "9b986ad6-579c-485e-8cf5-1f294323c91f",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-10-19",
+        "status": "reserved",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "249a0b9d-6e90-4be1-b142-339b9ef5e623",
+        "vehicle_id": "020bed92-4443-4ec0-9902-cbce41ebaac9",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2022-06-13",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "0704a4d5-a048-41e6-b946-62f1fb9afb2b",
+        "vehicle_id": "d4ba0da5-4b9b-4a74-9fc1-2402cd8d7cc7",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-12-07",
+        "status": "sold",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "46213841-ada3-4585-80b5-b42dc835d4d3",
+        "vehicle_id": "36e4866a-15da-4f20-8389-820c24f19d2f",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-08-11",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "3f9a9cce-ea90-4fbb-aee1-40228f4d2024",
+        "vehicle_id": "0cd7e18e-de7e-4158-8ff1-d7906875de33",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-10-01",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "90a30bee-d371-4bdc-b5c6-79b7b3a9c6be",
+        "vehicle_id": "db241149-fc45-4ab6-a678-521d9f7c8b8f",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-08-30",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "45db548a-edea-4355-b3d8-9d143e2a9a99",
+        "vehicle_id": "6b67bc3d-ccd7-41be-ab7f-7e554787eef1",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-10-18",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "caf6e9c1-89e3-4e32-99bf-9e7240c9245b",
+        "vehicle_id": "9424eaa9-6ebd-4cae-9d46-2111a2d086ef",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-08-03",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "078005ff-5e00-476d-baa4-2b448ec652b8",
+        "vehicle_id": "380937c1-391e-424c-897b-b15e754ccc48",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2018-10-23",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "3cb0c38f-a423-4531-be2b-beb66414c2f1",
+        "vehicle_id": "75c855b4-51dc-4e9d-957b-40dc0cae7701",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-03-28",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "af62d6a8-c28f-448e-91d7-560278759467",
+        "vehicle_id": "35d271d5-dddb-4dd2-97e9-e71993d65d8f",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-08-12",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "39f34dd0-d255-42d7-a039-8e7d386b249f",
+        "vehicle_id": "1689d724-7d3f-4587-accd-a813719d1d97",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-10-05",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "63a4c613-d92c-4a4a-a11e-d8cbb126c88e",
+        "vehicle_id": "dedfbf6d-a54d-4b1b-900d-1b37b0f4417d",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-01-08",
+        "status": "reserved",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "aec9f425-1caa-498f-84d5-ea5791b78fee",
+        "vehicle_id": "a210fc76-2916-491c-b201-77b8657bf9ad",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-07-07",
+        "status": "available",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "60a0e459-3fc5-4841-aade-9e4311ad3d06",
+        "vehicle_id": "8a8f0efc-dd49-4d33-b63e-e3dc28a23fb5",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-10-30",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "e2555fe8-5e91-4505-aaf8-1e4122759564",
+        "vehicle_id": "ecf77f1c-0025-482c-8c75-e7f5253e1c83",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-02-13",
+        "status": "reserved",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "bfdb36db-650f-4df9-a265-1da42af2dd4e",
+        "vehicle_id": "17cddff4-1236-4ccd-a8f9-d635ab4eadf1",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-10-17",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "0aa1c796-ee6b-4b13-b4d5-0d21935ebac4",
+        "vehicle_id": "920d0e6f-5f7b-4267-aeec-7471adf91d18",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-07-25",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "f34fab37-29d9-41dc-967c-72a274363fb2",
+        "vehicle_id": "02d6a569-58b0-43b5-b31e-89a6b36243bc",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-03-29",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "086eb3cf-3e5c-40e8-931e-1ad5d14ef09d",
+        "vehicle_id": "9519b8b6-0c01-4843-a198-d2385f48257f",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-08-07",
+        "status": "sold",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "c45d91b6-7e54-4a4e-b339-661d47decd27",
+        "vehicle_id": "b6ded567-0f75-4b65-91a8-e214cba1b917",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2018-06-07",
+        "status": "sold",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "d2484be5-753e-4c5b-a086-d82e05d7e0bd",
+        "vehicle_id": "c6513f74-7266-4c96-8140-ed8ef13bf5e5",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-10-14",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "6123b0b6-9aa2-4433-98a1-2e8cbba8c9bc",
+        "vehicle_id": "89e9d849-268a-4e80-af78-8f651610e6de",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2019-12-15",
+        "status": "reserved",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "f4625d1f-118d-4082-b545-e2641859902f",
+        "vehicle_id": "a4854c91-7a76-4cb6-b3ac-1ad9974836dc",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2023-10-21",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "967d4ef7-f02b-4737-9a2f-c05f139fdf92",
+        "vehicle_id": "c972824d-da37-4693-9942-c77fd9c684fa",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-11-21",
+        "status": "reserved",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "2fd29724-4145-443e-b78c-e9208c9c23b3",
+        "vehicle_id": "8bde8929-03ee-41d6-85ee-930f38f7b68f",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-03-06",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "99320e0f-3ca2-4488-bc25-b420337e63ba",
+        "vehicle_id": "3b676eab-9bfc-488f-b02d-72a20b4a6138",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-09-04",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "48418dc6-97dd-4ddc-903f-ab3fcd0a5e3a",
+        "vehicle_id": "a866be56-f6c6-4feb-821c-debfb68a1f83",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-07-27",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "6af57c44-7841-4185-a383-589fe5173c56",
+        "vehicle_id": "0a309f0d-9832-4002-b473-1173855a3845",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-10-03",
+        "status": "maintenance",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "108b1855-3f9b-4b5d-9a7a-76c35bbfe141",
+        "vehicle_id": "4a42abc8-2254-498c-80b4-5d8a420bfcd4",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-12-16",
+        "status": "available",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "9e2d93ef-f376-4cf9-bf12-245fdb700b68",
+        "vehicle_id": "84ff984a-aa66-4ee0-b29d-e0c0a770baf2",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-10-21",
+        "status": "sold",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "28ef9fcb-fcdd-4ac2-b736-4806be387763",
+        "vehicle_id": "8c892afa-9d08-4016-8340-3475e11a9a50",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-08-07",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "8aa5bac8-3207-442f-9ad4-3436f6585bce",
+        "vehicle_id": "46744005-f6a4-4152-8d1e-f75509ba4062",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-05-16",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "baae7ba7-12e2-4519-9ba4-7dfa18afe248",
+        "vehicle_id": "06fff7cf-9de8-4e4e-8ddf-bcf24f8fcfc5",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-02-27",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "a62fed1f-def2-4548-9b41-f28482ce647a",
+        "vehicle_id": "6453c914-516e-4322-b51c-b5b9a31f1b13",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2024-01-07",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "f21a524d-9dea-4a96-902e-aa89cda8aafc",
+        "vehicle_id": "920502a9-b59d-4ec3-9e05-94ad4c3b3ab8",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-04-19",
+        "status": "reserved",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "0a1132be-1182-453d-ba5c-fb04365a6f25",
+        "vehicle_id": "e5832db9-5463-43b7-b42b-3404b5611725",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-04-22",
+        "status": "sold",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "2d9d2a79-1fb6-4bc6-a473-a4cb702e01ad",
+        "vehicle_id": "b05352f1-0c6d-451d-b4e3-b0936d686655",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-02-21",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "475558a8-f354-4375-b67b-3a7c3e7e82de",
+        "vehicle_id": "6d70710f-3b90-4c44-b9f5-ddcda718ce63",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2024-04-24",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "3000ddda-a318-4919-842c-bc9030546d74",
+        "vehicle_id": "adcf1af5-e168-409d-b60a-5b7c8b0854f4",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2024-03-23",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "c2a5d7ba-0ccb-4aff-aacd-6ceaf083b31d",
+        "vehicle_id": "0fe04fbe-157f-492b-854f-50d7a17912c4",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-11-23",
+        "status": "sold",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "42c66e59-3de5-499d-9099-419b001a3dd1",
+        "vehicle_id": "773d1d1f-2951-481a-9079-b398db572a0c",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2018-11-26",
+        "status": "reserved",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "32717dee-fef0-4bce-bf18-56ca7e56b478",
+        "vehicle_id": "d099d44a-889a-46da-8f1d-4b23f5d0f13c",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2024-05-17",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "b2debd01-5f24-40ef-947c-7406258dcd5b",
+        "vehicle_id": "380dffde-39fc-4101-b3b6-e7248a6292cc",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-06-29",
+        "status": "reserved",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "9f833fbe-b826-44de-8c14-de05687536c1",
+        "vehicle_id": "1eb45c33-926a-4096-bdc6-ef7ef6ba21aa",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-11-17",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "8ec7a1bc-cefa-4057-97e4-febf81c898dd",
+        "vehicle_id": "3ea13fa8-8560-4114-aa93-73074473953e",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-06-08",
+        "status": "maintenance",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "4d064617-3d27-49e7-a14b-fe3be42ddaa6",
+        "vehicle_id": "a2c254d3-c7ae-4493-9e49-f97ff7d490fd",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-04-21",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "bbfecc1d-b0d1-4dee-a71a-49d61b6e8242",
+        "vehicle_id": "9aeccb52-0fc9-4913-a6b8-3c83f47f087a",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2024-02-23",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "e9bb9862-a1c7-423b-b5f5-aeaa26d9e973",
+        "vehicle_id": "b383d966-7a8e-4a1e-8581-85cf7e7bd718",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-04-13",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "3e10cfdb-bd5f-48c4-b75d-be5c76216861",
+        "vehicle_id": "0bd2c89b-e124-4ca2-95a8-4d1a8d07bc2c",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-02-03",
+        "status": "reserved",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "7a5ef770-25bc-4b69-9b09-123b29db86ad",
+        "vehicle_id": "d4521754-6cf3-4f8a-88b9-0beb13540451",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2018-11-07",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "116f8267-f12f-4b81-b2c1-2e4fa56fbfd8",
+        "vehicle_id": "4797a2a0-975b-40b9-b79a-60ce52d2da75",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-03-28",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "7b55b87b-114f-432c-992d-8251e761ed8c",
+        "vehicle_id": "9566d9b9-8279-46b5-83d0-945f5ced0632",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-05-08",
+        "status": "maintenance",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "ab5368e1-3693-4786-8b97-81ae6b43fdcd",
+        "vehicle_id": "9548fd32-c01e-4f8e-bc99-f1bb731e0c27",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-09-26",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "c45a9848-9555-436c-8cd9-7b64177f5fbe",
+        "vehicle_id": "a648bef3-5709-4c11-b187-9e7fecfbe6d0",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-09-21",
+        "status": "reserved",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "574084ec-3640-4b15-8fb0-efde93c84ee5",
+        "vehicle_id": "e9be86c8-27a9-46bc-adfa-9125753a0c51",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-06-23",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "b05ba564-0b77-40b1-a003-87cee1556959",
+        "vehicle_id": "892db9a2-88c3-4a82-beda-1704fb44d65c",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-08-04",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "ff1695dc-bfa9-450a-8918-cf34c60b7f7e",
+        "vehicle_id": "6058f427-a67d-428c-bba6-af8f4f9355f7",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-10-01",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "9cf94f6a-7081-469a-9fb5-ba53e7315bce",
+        "vehicle_id": "cb3df392-66f8-4e39-95cf-1399aa5fa0c1",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-06-20",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "6ba11fd4-01d6-4d62-8d9c-d93419c78187",
+        "vehicle_id": "cb3df392-66f8-4e39-95cf-1399aa5fa0c1",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-07-19",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "237d8e57-01bb-4019-a02e-698b026bc453",
+        "vehicle_id": "824a3ef4-901f-407a-afe9-227b2d649b9b",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2019-01-03",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "4da01c5b-5675-4ef7-91bb-7bc5a98a501d",
+        "vehicle_id": "694679c4-fbaa-4d1a-bb12-e1e5a8726030",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-12-14",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "00178053-fc14-4bdc-8daa-4b126dfb0b6f",
+        "vehicle_id": "125c7d64-9666-4a2a-bfdf-edf98149f8ef",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-04-26",
+        "status": "maintenance",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "d0e5eb00-2de2-481b-a3c5-b7a3641e7dde",
+        "vehicle_id": "d8c372d5-5045-4f57-a6fc-0e4b55c914fa",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2019-03-13",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "200d082e-6134-4850-8985-350526468a4b",
+        "vehicle_id": "76b59f42-3eeb-40a8-863f-65e01e9bd621",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-12-29",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "40dc0dec-eb9a-4620-9d05-61826eb35713",
+        "vehicle_id": "0f582301-b9c4-4f84-ba1d-7da6344d04b8",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2022-10-23",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "43a0bd64-e4da-40b0-9965-b22b6ec3497c",
+        "vehicle_id": "53a101ae-a448-44f9-b0bd-244c594052ee",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-09-12",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "ce087ffd-6b8d-4bdc-a398-24fa1037e3a2",
+        "vehicle_id": "daa4ea92-b473-43d3-81be-c7e64bed80be",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-02-21",
+        "status": "sold",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "836bd0f9-f5f0-4083-b1b6-793ec2aa9154",
+        "vehicle_id": "7f69cd80-ae8a-42e1-86b1-1cc85efa98aa",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-04-25",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "6157b191-8744-4871-a2f1-131f6599147e",
+        "vehicle_id": "8993b9e3-6130-403f-89d8-4275ab31a333",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-11-07",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "4fb52ba8-2036-4671-a77a-6e3384b66deb",
+        "vehicle_id": "e651d5be-b2ac-4fcb-bb97-7090dca23ea2",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-03-30",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "c54500df-4012-43ff-9015-6a8e8a99850b",
+        "vehicle_id": "e8f572b6-3b74-4141-8eb9-080f6eda4d60",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-09-16",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "925634d9-81c4-49c9-8ca4-164789326a75",
+        "vehicle_id": "b0f5bb52-bfdd-4d0a-8031-4bb5a1a66ab8",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-05-19",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "2d80690b-a001-42e3-a7f3-e7bd84a7e497",
+        "vehicle_id": "595594a0-2a42-490b-b3cb-e11867c57548",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-05-28",
+        "status": "reserved",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "1000355c-2928-4ead-8cf7-9c2b8d96ce61",
+        "vehicle_id": "ff075cbf-c249-407b-97cc-32b2d7dfc949",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-05-14",
+        "status": "sold",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "0379007f-8548-4407-beb1-caecf2822411",
+        "vehicle_id": "4a672692-49d8-4983-bd6d-b029bf8e5aad",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-07-06",
+        "status": "sold",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "32dc95d0-95af-4317-b3b8-2bce5c97d62d",
+        "vehicle_id": "651cd036-1e75-4549-b978-4827738a35ad",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-05-05",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "568e838e-3e65-4ba4-bb48-c44c6eb36ac9",
+        "vehicle_id": "c74171df-ddb5-4e1a-bfba-1a6b75daf0b5",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-04-01",
+        "status": "sold",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "855b18e1-d118-4b52-8d1d-e9fcce22f654",
+        "vehicle_id": "7ce018fd-6e1b-430f-88c0-a04d6ad2e92a",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-02-17",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "82e29694-48ab-4600-b3a6-89df14dfd972",
+        "vehicle_id": "170ec968-1f49-47b1-a21a-96135ee713ea",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2023-04-15",
+        "status": "sold",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "0eb9b634-2e8b-4699-8d05-875436918b42",
+        "vehicle_id": "27e7af52-a067-498b-ae55-6e25f04b358a",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-01-02",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "a37739d8-e681-478a-825f-c43bf9973bec",
+        "vehicle_id": "df4c546f-6122-4c46-9e89-eaf3edf76ef2",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-09-21",
+        "status": "available",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "534a3844-d770-4d06-b24d-84bdd97dbd3d",
+        "vehicle_id": "64d53c10-6464-4fe2-bbe6-4627c0905350",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-04-09",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "2d61b006-acc0-4249-89bc-a8ce68538f18",
+        "vehicle_id": "6c370680-92e5-4b70-8d90-702761fdd212",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2024-05-21",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "88d9eecb-4351-4bd2-a3b9-b68ceededd9b",
+        "vehicle_id": "e0027765-a298-4b49-9d3c-d03685f01e36",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-03-30",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "b3614d7c-841e-425e-8b7b-bc7f46113106",
+        "vehicle_id": "75577568-5e48-4ab6-9c4d-d43a10d5022b",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-09-14",
+        "status": "sold",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "49ccdb49-c044-47f8-b6d0-5ca83515b10b",
+        "vehicle_id": "be4eb5f8-4b11-4296-9938-540052a07804",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-08-08",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "fa203cbd-5497-4082-8ab9-0a90e509d42f",
+        "vehicle_id": "3ed11e38-f036-4db0-a502-6ec96a97c972",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2024-03-11",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "85f2afc3-16b0-4891-a398-9c2d78e39f1c",
+        "vehicle_id": "3131f38e-0aa6-4a7e-8507-0ac9c90619e3",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-06-14",
+        "status": "reserved",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "e36b6394-9640-42f4-86a2-df312fbe0281",
+        "vehicle_id": "a35512a3-7c21-4ab5-9da4-1e09591d7060",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2023-12-25",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "8d7618c2-1730-4a21-a268-ae8568582235",
+        "vehicle_id": "26c74af2-c6f1-491c-9fdc-cc3af6ddd476",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-09-26",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "5d26655c-0e00-4ef8-84eb-69af75a35bee",
+        "vehicle_id": "e38806ac-5ae8-4672-9adf-40352632ec98",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-03-27",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "43ce5dc4-539d-47fd-ae25-2165cdab3bb9",
+        "vehicle_id": "8e63b656-af55-433e-84c0-b2b29ff1a2a3",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-04-15",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "c5f0c114-0c39-4668-9f1e-97eb1d1aa51a",
+        "vehicle_id": "df75351e-05b7-4923-aa9c-b0ea89ed370c",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-05-07",
+        "status": "maintenance",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "ae842b15-e7ba-48f0-b348-62cc772bf67e",
+        "vehicle_id": "17b41203-98df-4d96-86cf-d1b7931f0670",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-04-21",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "fb05c650-98df-4204-b532-de5a505430d3",
+        "vehicle_id": "46a9c4ca-7eac-4223-822e-a96ad0ec0ae6",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2018-06-15",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "3a6f1a8b-f41c-4695-9014-1e431eb5bcd5",
+        "vehicle_id": "8387a215-25e1-4395-85f3-7fe16cc585ea",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-02-07",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "404938cb-106c-4ac6-9a93-a476dd4d32bf",
+        "vehicle_id": "e69fbc7c-bfd3-47d9-8a77-545f72860d2e",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2024-01-11",
+        "status": "reserved",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "13becda9-9b76-4835-8e72-00e4283b3657",
+        "vehicle_id": "ecf77f1c-0025-482c-8c75-e7f5253e1c83",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2022-03-05",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "be3c95fb-4ac9-4420-84f4-0c05c0cdf618",
+        "vehicle_id": "b0e629c9-8725-492c-952e-581b01ae5806",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-12-13",
+        "status": "available",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "e7295d5d-6d3c-4f5a-a123-4dce440484bf",
+        "vehicle_id": "ae716184-c60f-4f4e-821f-cb501f10fa3d",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-06-21",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "d71d813f-c50c-4666-9231-432d9a7cd7b3",
+        "vehicle_id": "dcb8e77c-a855-4835-84ab-70c5ef05f3f6",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-11-10",
+        "status": "maintenance",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "0dc3d39e-6ee7-4447-925b-3a30a3c5f9cf",
+        "vehicle_id": "abcab9a2-7460-4927-ab1e-d66a78d49d26",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-08-24",
+        "status": "reserved",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "c1c18a59-b682-4bd4-890e-c6fc5517e3bd",
+        "vehicle_id": "75577568-5e48-4ab6-9c4d-d43a10d5022b",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-08-03",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "4e69a220-5024-4234-b53a-3dd00324f68f",
+        "vehicle_id": "12c9180d-9998-4679-bc2f-f7216cdb8b3b",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-07-30",
+        "status": "sold",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "cb2174ce-2a18-4404-9fd3-8f8ff040a9a7",
+        "vehicle_id": "656ff943-c59c-4d2f-b8b8-cd11ec8dc348",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2024-04-28",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "cbc422c3-5e8a-4c2a-ae66-c7ac00382936",
+        "vehicle_id": "8132d6a7-6845-4864-a32b-77bcf0665166",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-08-31",
+        "status": "sold",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "4b8c66d7-236f-41d9-ae1c-26f8c22ef741",
+        "vehicle_id": "937ce9c2-1cc5-4b57-a860-71ceab0b1107",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-03-07",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "94705a70-cc43-40c7-9f7d-e49f0b788671",
+        "vehicle_id": "893e7512-e436-4d39-8830-2a1bd40601de",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-07-18",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "47a01836-74ee-467e-989d-37b2a59ea6f7",
+        "vehicle_id": "ab42bc7e-e1e6-4221-9325-11e64e36a7fa",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2024-02-07",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "bb22f09c-5105-4552-aa31-a22578ff03f1",
+        "vehicle_id": "13f3da86-4fe7-4def-9630-7d59452596ea",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-06-11",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "a056d653-255c-400b-825a-ac4cff7fcd4a",
+        "vehicle_id": "8ebcbe50-feff-4d55-9298-7e6caa43ddf5",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-08-20",
+        "status": "sold",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "7320c3b6-bd52-40fb-ab1d-d6b544998bb9",
+        "vehicle_id": "bb5241ca-0afb-42ca-92c6-47fc0918a405",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2024-04-30",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "ae5b865f-3d26-43ef-a083-9598c1a6d99e",
+        "vehicle_id": "33794e43-10cc-473a-80d0-af52ab3140da",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-09-22",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "8519537f-ef2b-4b5f-a1c5-2b688ab805f5",
+        "vehicle_id": "9e365a28-0e8e-4a33-9599-b63cbfb152af",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-12-13",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "3b1c96b6-80d8-462a-bc90-aa6133b432a0",
+        "vehicle_id": "df75351e-05b7-4923-aa9c-b0ea89ed370c",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-12-14",
+        "status": "sold",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "8c8b48b5-5fd4-4412-83fc-5c5332eff7aa",
+        "vehicle_id": "018cd177-d4b4-4099-b01e-d14e55831c57",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2024-04-24",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "71ad9ff9-f86a-47de-b127-a6cff0f159ab",
+        "vehicle_id": "389358ae-434e-41ea-a5fe-39c4d5470440",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-08-13",
+        "status": "available",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "19de190e-60f1-486f-8329-b58a8c821ecc",
+        "vehicle_id": "a0ffa094-11ea-41c6-bf03-b83f7850bdb0",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-06-11",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "2bdaa6d7-6180-4f05-bedc-742b9d284c1c",
+        "vehicle_id": "8e5fc6a0-2a73-4a1c-b57c-26aed2a3000a",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-03-20",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "645ae995-bcfe-47e1-a449-4ced23da3681",
+        "vehicle_id": "21fc9fd0-5a29-449f-9944-175b17db1fa6",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-09-23",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "50de2fa5-a451-4619-8571-b8c69094ba7f",
+        "vehicle_id": "ecefb265-64bf-4ab4-8aa6-58ad5bbede72",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-11-25",
+        "status": "available",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "2f2a5ab5-8b76-4d89-b99f-3caeaca2d28d",
+        "vehicle_id": "a2c254d3-c7ae-4493-9e49-f97ff7d490fd",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-04-02",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "eaed5834-0b33-46d3-aca0-3dac610d7f22",
+        "vehicle_id": "af6518d8-41d6-47bc-a035-b1435461fb0c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-12-23",
+        "status": "sold",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "bd472741-4441-4955-942d-242591312a03",
+        "vehicle_id": "f3a0ada5-b060-4b7a-b9f7-f81d95b47b36",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-05-25",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "fa911ee5-a5c0-4fc7-8dc2-de1cf404e660",
+        "vehicle_id": "df4c546f-6122-4c46-9e89-eaf3edf76ef2",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-03-17",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "f76d5dbe-5b83-4347-90fa-149e2e7470d4",
+        "vehicle_id": "0e21281d-d4b3-4a78-b0e9-22e96ff886d3",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2024-03-28",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "3f4eebc6-c9a0-4f28-98a8-ced0f6636286",
+        "vehicle_id": "5304dc58-0722-421e-823f-6c5c539f38cf",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2018-10-22",
+        "status": "reserved",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "5cc87be1-6de3-46f3-a43b-562cefe283be",
+        "vehicle_id": "0cd7e18e-de7e-4158-8ff1-d7906875de33",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-07-08",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "d523a636-ac5e-48c3-85d5-3e08cc588e4f",
+        "vehicle_id": "54bcca85-6ef4-48c9-a3d5-cc640456927b",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-04-11",
+        "status": "available",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "9df2d06e-2bfe-424d-955f-b61f24886e90",
+        "vehicle_id": "9b057fc9-346c-48ab-89c1-aaab8a5fcc24",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-03-01",
+        "status": "reserved",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "aa32e8c2-5f7e-4253-a7e9-3fd82d1b8b4e",
+        "vehicle_id": "7f0ced5f-ded3-4175-93e6-4dcefb03c942",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2024-01-15",
+        "status": "sold",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "778700c9-86b5-48fe-8959-67bc6fa7150f",
+        "vehicle_id": "f9f6a3a8-4628-4f5f-9361-d578242070e2",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-02-10",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "62810992-cf57-4f31-8554-b959be185472",
+        "vehicle_id": "0736392c-6c6f-4660-a424-6f61780ebe5a",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-01-02",
+        "status": "reserved",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "11d3c024-717c-4b03-8367-81a37ea2955f",
+        "vehicle_id": "8b1fa288-74a0-4a16-9831-9e2551bc6ecb",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-12-02",
+        "status": "available",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "3b690057-a611-4a41-9171-ba81d16ce6cd",
+        "vehicle_id": "6b613f49-5280-4f79-b76e-cf3043e54af3",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-04-07",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "b8416c10-b9c7-4c13-88a4-cb8894357fdf",
+        "vehicle_id": "ba4e58cb-ee4d-4b1a-b9a3-4998177d673f",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-09-21",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "99a363b1-e597-4ba9-b1ec-a54624ecbb7d",
+        "vehicle_id": "a6ecd655-f534-47fc-8c57-a1337b89e5a6",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-04-04",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "feb4a2a7-79ae-4287-b20a-c26d4ba98291",
+        "vehicle_id": "8c9a96fe-a251-4f6f-add1-9b3b28702a5c",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-05-04",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "f870698d-c447-4a61-a85a-df54c2093f67",
+        "vehicle_id": "7cc3dfdc-6a38-4765-86e9-a40a2f6abcdb",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-07-20",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "f4fcc022-2251-40ed-bfbb-6a8974aa2360",
+        "vehicle_id": "54adf9d9-ab80-406f-acd7-acbf5749d5a5",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2023-12-29",
+        "status": "reserved",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "5b23a5d0-658e-46e9-bc92-17f809b4b9c6",
+        "vehicle_id": "8e2d97df-1b7c-4b73-94da-f8f1b2af17f8",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-01-17",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "ee49bae0-84c7-4e45-bc0b-8775543d6520",
+        "vehicle_id": "cdaf681d-bf09-4f45-a4be-41b45b539c6f",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-04-13",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "23a17242-00fa-422a-a300-e9b9b4f6d313",
+        "vehicle_id": "8c892afa-9d08-4016-8340-3475e11a9a50",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-05-28",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "c9cb401f-5386-4a38-9b29-2d5bb5361a96",
+        "vehicle_id": "4ee65acc-5714-4d12-b0a9-97eeabcb4ae7",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-08-12",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "86db8f99-5585-401a-b616-e597671516ea",
+        "vehicle_id": "5b1bb6c8-6c4b-462d-8f55-6e7f1dd35f91",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-08-04",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "e7c997aa-4b37-4c3e-bf9c-a499b9046f8b",
+        "vehicle_id": "9523bb9a-f297-4c12-b0d8-efe2c0d4f5c5",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-05-08",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "b407d646-ff6a-4332-8c70-fbf5e20cb8c6",
+        "vehicle_id": "108b6cf8-fd83-428f-9d21-9333f4513544",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2018-11-27",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "0c1ff48d-74f8-47e6-a468-99160bff930e",
+        "vehicle_id": "82fa2b4a-ea97-4111-8a87-2ccc600ee1cc",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-03-26",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "082a92e7-230f-4030-afc5-bba75814e3c2",
+        "vehicle_id": "595594a0-2a42-490b-b3cb-e11867c57548",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-04-22",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "a7401dee-35f8-44b0-af6e-d2283c81dba9",
+        "vehicle_id": "f0ae9112-7c19-40b7-9551-6a864237bbce",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-12-22",
+        "status": "maintenance",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "a6f950ce-bac9-47f0-b063-745f25a31f52",
+        "vehicle_id": "8ad303e0-6fd9-47a9-af41-8416902d82c3",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-03-11",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "38549b24-08f0-4305-875a-92633b46690d",
+        "vehicle_id": "4f5c279e-ecbd-44ed-98d4-4c1d3e0c81db",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-09-19",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "24f81b3b-edea-4706-b962-59cfaf8ed5e2",
+        "vehicle_id": "b051640f-fec4-4655-8bed-eade84628432",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-05-13",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "d57bc3a0-c429-478a-9bbb-6fb8c5932099",
+        "vehicle_id": "611592b6-afe5-4ffa-8bf3-2fbbdcfa8f01",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-09-02",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "011d66bb-6b32-449c-a404-89090bf43567",
+        "vehicle_id": "6f7d118e-100f-4139-ac9f-56f93f3144ff",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2024-01-20",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "793b0ebf-a395-480d-bf2b-9278145abf4b",
+        "vehicle_id": "d7b141e4-f2a1-4e6a-8b06-176a3746475b",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-01-09",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "8c20e182-2688-40a8-acf2-5b021b681c79",
+        "vehicle_id": "b66b5376-21ee-4811-8990-2f85875ed665",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-10-10",
+        "status": "maintenance",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "3b05cc59-7fb2-4c9e-8ca0-a8be6eafb713",
+        "vehicle_id": "679d36bb-931d-4cb0-972a-0fa2d9a4ee71",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-03-12",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "8343df5a-2466-481a-9c0a-23831d21d3ee",
+        "vehicle_id": "dbc66dfb-03e7-457a-8e8a-bc44255eae66",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-07-13",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "f558fe73-fda4-44d4-8038-fc7c1a87d61a",
+        "vehicle_id": "651cd036-1e75-4549-b978-4827738a35ad",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2018-06-18",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "f336527a-b3cb-4b2b-869e-c81a5e3004f1",
+        "vehicle_id": "98659fb2-819e-4305-9422-2cafcc533262",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-11-22",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "f34cb79f-1669-4c62-a291-aeb8e86f8211",
+        "vehicle_id": "e568e994-3a83-49e3-8187-9466d0e3ba21",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-06-05",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "efc5a4ff-4108-40ce-8cb9-d603e9063f3a",
+        "vehicle_id": "fd817e6f-9f1a-4e06-98c2-a82b7c0af0b7",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2024-01-01",
+        "status": "maintenance",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "9775b188-7186-4ad3-9b46-e6e5e36f4612",
+        "vehicle_id": "803963f0-14a7-4322-adbf-1f8a120e7657",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-06-13",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "c4c2671d-b7e5-494d-9ecc-1e3847cd5f2d",
+        "vehicle_id": "493ffba0-2fcd-483d-a20f-3bbd9402c1f9",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-09-19",
+        "status": "maintenance",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "6b699316-f3a7-478f-bbb7-ebb739bbb300",
+        "vehicle_id": "937b5a0a-e1cc-42b0-a6af-a1d0c042ab41",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-11-19",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "223d99b9-907a-429c-93f8-130568ce802a",
+        "vehicle_id": "665ff101-48de-456c-abe5-fa254b098651",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-08-31",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "4e17c952-9ec2-4a0b-81d0-7768e4cb19e7",
+        "vehicle_id": "fd235b8d-a395-4e0d-bf71-ece4d4b91794",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2018-07-25",
+        "status": "available",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "2a630699-d31b-41b3-8a23-4e7ca5056002",
+        "vehicle_id": "45cde4c7-4442-4382-b7ac-0f522d8aa8d3",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2022-09-20",
+        "status": "sold",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "f08c89c4-4d2d-4cfa-8df8-d8005271e65e",
+        "vehicle_id": "29118f6f-105c-46f7-b42c-1819ab470052",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-01-05",
+        "status": "sold",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "98090f36-503e-48c8-8e7b-ea1b8b4bf33d",
+        "vehicle_id": "f3a0ada5-b060-4b7a-b9f7-f81d95b47b36",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-04-18",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "1329415b-6cf5-43d3-961c-880f79b774f6",
+        "vehicle_id": "6f7d118e-100f-4139-ac9f-56f93f3144ff",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-02-23",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "d20f4d8b-38a6-4aa1-8dce-25d91a04126e",
+        "vehicle_id": "5c022f67-2035-4957-ba31-2ad1467d1afa",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-10-22",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "3ee461b2-6393-4984-a25b-994ef01cc85f",
+        "vehicle_id": "8fac61e5-7a2a-404a-b1f6-5665b2190fbf",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-07-15",
+        "status": "reserved",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "dad6d2c2-3e74-4d0e-a627-86ec5cff64bf",
+        "vehicle_id": "4b56c8a2-b7b1-4aeb-88b2-69ec9af61b2b",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-12-07",
+        "status": "reserved",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "d5b18bff-ba6b-4fe2-8859-0e1772a11bd4",
+        "vehicle_id": "22a84621-566a-42bf-8921-cf7324d514d8",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-02-17",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "7935a63c-56a6-4218-b7d4-c0a13274edec",
+        "vehicle_id": "6b5456d5-b652-41ad-88f0-cb307b4bcc97",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-03-20",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "75ba0397-7098-4e4b-a4d4-cbb5b41a31ce",
+        "vehicle_id": "cd6548a2-9995-4a3d-af41-1d758ab9d83b",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-10-13",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "d465c282-19da-46ca-8280-45c4bd85423b",
+        "vehicle_id": "10772596-0e8c-47b8-8c1a-15ca8e66e23a",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2024-04-06",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "bcd5d179-44c9-4e09-9b91-422570ad018c",
+        "vehicle_id": "e940f8a1-04ee-4df3-99e0-8601911225c7",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2019-03-27",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "37a74d33-99a7-4158-bab2-6d1eaabb4121",
+        "vehicle_id": "51378456-9510-4f89-9c9d-903c2fbd01f1",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2018-07-16",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "80f8e482-73da-4856-8c23-786f9cea7782",
+        "vehicle_id": "f82d5dfe-095a-41c8-bfb4-9207b20b6bfb",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2018-10-05",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "1da36b76-048d-4e64-bf80-23db04dc7f46",
+        "vehicle_id": "8f56204a-3e04-446d-ad65-599948075c73",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-08-18",
+        "status": "reserved",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "566beac2-e497-4745-90af-83e14a3b82c2",
+        "vehicle_id": "937b5a0a-e1cc-42b0-a6af-a1d0c042ab41",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-09-27",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "f04827d8-d95a-497e-b3d2-37e22e8369ec",
+        "vehicle_id": "84ff984a-aa66-4ee0-b29d-e0c0a770baf2",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-08-10",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "8f38a403-1914-4609-a6cb-6e3d52258fb0",
+        "vehicle_id": "7ae791d2-4d2f-4ab7-bb54-e4859ca0635c",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2022-02-05",
+        "status": "sold",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "e9bc4802-a019-49ec-8822-80492634e8e0",
+        "vehicle_id": "044f3368-3fb3-44fe-b6c2-48b2552772be",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-07-11",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "c88f237d-275a-4fe8-938e-f4b89b74ec37",
+        "vehicle_id": "430729cb-d825-4c25-8042-1c545303571c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-01-29",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "9f50bb4d-1a41-403e-99f3-faf6dec51312",
+        "vehicle_id": "039d4d93-518b-4a65-8d35-5dcac0e82024",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-07-23",
+        "status": "sold",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "ef299876-ce84-4090-acbb-4bb09c569d7a",
+        "vehicle_id": "e2b3bad1-ea9f-40e7-a115-b4c28af4cc14",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-10-10",
+        "status": "maintenance",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "6e2221ce-50bb-4292-adad-b688b7a2e353",
+        "vehicle_id": "4ae951f0-96ae-4b40-8f64-81a45051ea3d",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-04-04",
+        "status": "available",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "5ed92a37-b12d-465b-a3ea-eb98859474f8",
+        "vehicle_id": "ce4bda0e-0cf4-4832-95a7-da80be445523",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-04-24",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "3ff65e12-42ca-47bd-bbe6-1a4eb15a66dc",
+        "vehicle_id": "0cefcc7c-b34a-488f-a858-5298097c853b",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-12-07",
+        "status": "available",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "3083d4ab-6999-4308-9280-24f580297a46",
+        "vehicle_id": "adcf1af5-e168-409d-b60a-5b7c8b0854f4",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-06-30",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "1af7a386-756f-4975-954f-7c90f5c51cda",
+        "vehicle_id": "af4000da-f89f-4319-be72-a294b3b23047",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-04-17",
+        "status": "maintenance",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "7dd7bf5d-1cd9-42a7-b891-f0f2d7384fe0",
+        "vehicle_id": "a9072930-f4b5-4ccc-9411-23aa732789b5",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-07-05",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "951c925a-bea2-4088-bbba-7ce5b2c29e49",
+        "vehicle_id": "75643e86-b81b-4489-8c8e-3070378d5b99",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2024-03-02",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "d4c7ab02-1ad0-44dc-b02d-687165929977",
+        "vehicle_id": "c627b491-5d74-4672-9c6c-853af381ca0c",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2024-03-23",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "796c9652-12f3-4095-8a3c-5fe87e39d335",
+        "vehicle_id": "9aa867db-0dee-46fb-a892-adb9903ffed1",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-09-29",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "7b997caa-1e38-41c2-ae81-145687af135b",
+        "vehicle_id": "d565ffca-b867-4735-accc-fce1bd87d80f",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-12-03",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "fd1288fd-5e19-45ad-a1c4-3255dca0089a",
+        "vehicle_id": "8eea2a03-703e-4ab2-8812-222d8eef66f9",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-01-16",
+        "status": "reserved",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "8ea8f125-598d-4767-af70-2139831b33a0",
+        "vehicle_id": "4d459fd9-2495-44dd-aed4-577789f3f6ce",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-06-03",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "5deea355-effe-4c56-b60b-3f1cf0859357",
+        "vehicle_id": "c38ec7b2-f73c-4f6b-a03d-0336e5f5e738",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-06-28",
+        "status": "sold",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "51df6732-8f7b-489f-a87b-1b536950abdf",
+        "vehicle_id": "bd7faa46-c3e3-4a53-abbd-5093aee5fce9",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2018-11-19",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "443f3665-b6e5-4a95-b704-2d596919c606",
+        "vehicle_id": "6370ed36-0f31-435d-bb56-63ccbd0a8997",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2022-01-16",
+        "status": "sold",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "9569ef1b-c5d6-4cab-a0a0-d858156d3b31",
+        "vehicle_id": "2c3b976d-1869-462a-af84-11572f6237c2",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-05-02",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "64b92577-c7c5-4e98-9110-fba64df4b378",
+        "vehicle_id": "364c3260-fcdc-46fa-be0b-d21a06b55d6c",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-05-15",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "6142e942-1102-47e7-9883-011d9e91816e",
+        "vehicle_id": "ecefb265-64bf-4ab4-8aa6-58ad5bbede72",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2020-10-28",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "1424bb31-ad70-4237-b6fc-245e32fec326",
+        "vehicle_id": "f2036d7d-d33e-439a-9987-116f39babb04",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-11-16",
+        "status": "maintenance",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "7fa7cb96-3232-4fa6-ab4c-f9f3d658f2a8",
+        "vehicle_id": "8caa0027-46f2-4c52-bc24-d4b328cec409",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-04-25",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "27d802a3-3769-4bf3-abb7-f326f782eb66",
+        "vehicle_id": "e65c4952-5083-4de4-acbe-e77bef2cb379",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-06-19",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "39f82e5d-a6d6-4770-82bf-c3808cd6055a",
+        "vehicle_id": "8e3a7194-9838-4e88-af04-f4cae1daa5c1",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-04-06",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "f0a89708-4d0e-42fe-ad73-c6c458467cd3",
+        "vehicle_id": "d565ffca-b867-4735-accc-fce1bd87d80f",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-08-24",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "cf992125-474b-4272-948e-bdf43a7fd5fe",
+        "vehicle_id": "79faac3e-0670-47a7-a0f2-831fe6b57cb9",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-12-11",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "7d1bec8d-abd0-47f2-bf39-4abef600e7ff",
+        "vehicle_id": "039d4d93-518b-4a65-8d35-5dcac0e82024",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-12-22",
+        "status": "maintenance",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "5a8dc6e7-d4e5-49f7-8ce1-ba89732aa5c2",
+        "vehicle_id": "7dafb0a7-7d1a-4635-a7db-d6c00a260c45",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-11-22",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "be5190a1-76de-45cb-a1d4-7efd7e80e98e",
+        "vehicle_id": "dfcf9236-454f-4d66-a0a4-5186e7c73dbc",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-08-24",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "9adcb891-f8d8-452a-91cd-0d8664422dd8",
+        "vehicle_id": "af3aac3a-871c-4573-97eb-093ccb74bd84",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2024-03-05",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "94f91528-828f-4d7a-b048-d49bad1d3e72",
+        "vehicle_id": "564473d7-a5cf-4883-8070-52a58aae2db3",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-05-21",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "6a5e1a88-c545-4240-9120-b4c321721fc3",
+        "vehicle_id": "aea64f93-3ce7-42ec-88f7-e99601b9b74b",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-07-03",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "ab0dfc7b-1c7d-4967-8388-c1b3f6bc663a",
+        "vehicle_id": "5139aed2-4863-4715-a39b-e13cbb9cacd2",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2019-07-09",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "df7930a7-1901-47ab-9aec-7a05b785179a",
+        "vehicle_id": "4ae951f0-96ae-4b40-8f64-81a45051ea3d",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-07-31",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "04d96319-9622-47bb-8eb3-30dcf2e327a5",
+        "vehicle_id": "eb31aae4-f291-41cf-a436-eb2e4c099cda",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2022-04-20",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "c8960535-2968-4bbd-84e5-74844c70bfc7",
+        "vehicle_id": "54adf9d9-ab80-406f-acd7-acbf5749d5a5",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-09-24",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "2bb5544d-e0b0-4250-89c5-265379ca9c7f",
+        "vehicle_id": "d7b141e4-f2a1-4e6a-8b06-176a3746475b",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-05-15",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "ee3c53db-0fa2-428b-b030-c60e38b8c525",
+        "vehicle_id": "519e41ba-dc97-414c-b674-5ad46d8efc1f",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-04-20",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "1f5cde64-3857-42b5-84f8-f3b23e1fa635",
+        "vehicle_id": "33794e43-10cc-473a-80d0-af52ab3140da",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-10-24",
+        "status": "sold",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "25be39e2-f13c-4914-8f55-72876468a3a8",
+        "vehicle_id": "7430b863-8bba-4399-b39b-d0dc24458e47",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-05-08",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "5ae3e09c-a83e-4322-8310-e8d23ad89117",
+        "vehicle_id": "4e65eb5e-4633-4b09-85ba-99efa88c3d0f",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2023-08-05",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "64643810-7f0a-4b64-bc73-902777528175",
+        "vehicle_id": "43570b9a-9dcf-44ea-8a52-80332313cdd5",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2020-09-19",
+        "status": "maintenance",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "8204f385-41e7-432b-8d1a-35cc2f3b20b6",
+        "vehicle_id": "7dafb0a7-7d1a-4635-a7db-d6c00a260c45",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-12-10",
+        "status": "available",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "0fe6103e-0754-4598-b02e-88a631f3d089",
+        "vehicle_id": "0eec5d4a-3288-4b43-a188-5cc85b72c4ea",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-12-21",
+        "status": "reserved",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "807703cb-02d8-493a-b564-437f192db7cc",
+        "vehicle_id": "33349d70-8f95-4345-8e26-1b1b23b64d01",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-12-24",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "c84124f3-127f-4df5-a792-81962293d124",
+        "vehicle_id": "7b01f690-579a-46d1-92ff-d95e8c57225e",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-10-16",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "82036260-97f5-4c5b-9f0d-573bfae2db23",
+        "vehicle_id": "4f7e041b-fe03-47fb-89ac-f43f4f184e90",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-02-14",
+        "status": "maintenance",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "78cec110-52fa-4821-a469-d3fbf9a0490f",
+        "vehicle_id": "7872370f-afd6-446e-89ad-090d8f009042",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-11-10",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "be6fd925-1eff-4031-914c-d9b424378e9a",
+        "vehicle_id": "1a08f534-1e56-4363-987e-d5e95ce00298",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-10-09",
+        "status": "sold",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "e5f5370a-ed62-4d00-80f6-6aa83af7a098",
+        "vehicle_id": "8993b9e3-6130-403f-89d8-4275ab31a333",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-03-15",
+        "status": "reserved",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "c19de149-222f-4418-ab3b-93db8c68d824",
+        "vehicle_id": "2b06bbeb-6268-4562-a918-7996a931d0d4",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-03-13",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "0fdcf633-43d0-47d4-8476-fa59fda909a9",
+        "vehicle_id": "39721c63-67b1-4e43-b1e4-2925478cde20",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-05-28",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "8dfd5bdd-75fa-4bf4-aeab-6d6f1e90777e",
+        "vehicle_id": "665ff101-48de-456c-abe5-fa254b098651",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-10-13",
+        "status": "sold",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "508200ef-f7d0-4e23-adc7-6aa43738ae1f",
+        "vehicle_id": "e456ad17-2827-4be5-90ed-a3e43b75acf2",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-11-05",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "d273892a-08aa-4cf4-8c96-e87a75470e08",
+        "vehicle_id": "190ea52f-7c63-469a-920d-5635970e8d30",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2024-04-07",
+        "status": "sold",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "9fff656b-2f82-4312-8b5e-28e3eeaedb4f",
+        "vehicle_id": "8caa0027-46f2-4c52-bc24-d4b328cec409",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-09-01",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "0b24c7f2-55e1-4801-befc-9e7ac4d6572b",
+        "vehicle_id": "bd18dd34-383c-4d21-8169-df7162033087",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-07-05",
+        "status": "sold",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "d8f1dbd9-f004-4897-835d-9586ddbabd2b",
+        "vehicle_id": "a9072930-f4b5-4ccc-9411-23aa732789b5",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-06-15",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "b606a6da-26a0-4317-913d-d08b5971efc8",
+        "vehicle_id": "0736392c-6c6f-4660-a424-6f61780ebe5a",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-10-09",
+        "status": "reserved",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "cebc221c-d795-41b1-8329-fb7b4b8c0b76",
+        "vehicle_id": "bebe07de-2ea3-4436-be75-96341e25bdbd",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-09-17",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "6148ca02-878e-491f-8b40-13f380cc9a47",
+        "vehicle_id": "8993b9e3-6130-403f-89d8-4275ab31a333",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-08-11",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "ad7252f3-c316-4939-8aca-d8b2e61d0fbf",
+        "vehicle_id": "b36f90f5-3edc-42c2-8be4-922d35a80674",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-12-09",
+        "status": "maintenance",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "a72e5c95-7b88-4b28-a83a-c5b952e400e7",
+        "vehicle_id": "431d9e49-ba3c-45ff-944d-b2ab2138a9eb",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-01-17",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "95afa4b3-2ad3-44ce-ab2f-5fac2591b94d",
+        "vehicle_id": "6a852767-1385-4d7f-94b7-008439b9d8a0",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-09-25",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "a0493087-19d5-4671-8bd0-3d4b5d9be910",
+        "vehicle_id": "82e1ea36-22ff-4129-a713-cd020772eacf",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2022-08-27",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "c1947ba3-dcaf-405c-9c2c-da169190d69a",
+        "vehicle_id": "21cf43a3-d476-4dd4-9ee8-4b69c2e64432",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-09-22",
+        "status": "reserved",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "d4f90b93-3569-461a-bbe8-6b5b2d590db0",
+        "vehicle_id": "e3d360cf-a8a3-4cd1-a1b0-8ac2a6254d23",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-12-12",
+        "status": "reserved",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "5a3fc0e0-8285-4f23-9bcf-20d962d35bd9",
+        "vehicle_id": "622a6619-f6de-47ab-a3d6-c3fb6dde5b6c",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-04-28",
+        "status": "available",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "11a84b8e-fe94-4edc-b928-9f9dcda9f70c",
+        "vehicle_id": "e38806ac-5ae8-4672-9adf-40352632ec98",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2021-12-01",
+        "status": "available",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "118b0531-a632-4fc2-a61a-a49b37856c5f",
+        "vehicle_id": "93a05175-e877-4bbe-bd31-391551c78a74",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-07-04",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "6666dc4c-0ce5-41ab-8841-c52ecb2a6fb0",
+        "vehicle_id": "e0ee6a03-000c-4865-b344-2d01c9bbb42c",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2018-06-20",
+        "status": "sold",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "cdaa50b3-938e-4490-bd6e-13e5c5fceb67",
+        "vehicle_id": "ae49807f-8446-4b80-a082-4cca042e4c0c",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2022-01-02",
+        "status": "reserved",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "fd946ef0-e41e-48c1-8b05-364181fb1c87",
+        "vehicle_id": "a3d4a725-0d5a-4a03-8aff-4d8e00d7d889",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-08-06",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "6425e14f-080e-44b9-bf0a-0d2a74079b8a",
+        "vehicle_id": "d4ba0da5-4b9b-4a74-9fc1-2402cd8d7cc7",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-07-28",
+        "status": "maintenance",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "339e323c-69ba-4735-bc9b-3ef932f18fb3",
+        "vehicle_id": "c62440ca-15e5-444f-8b35-e3d71f95e74b",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2024-04-27",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "f8c0bb32-0a9a-4849-b3be-7ae4cb0999c9",
+        "vehicle_id": "df75351e-05b7-4923-aa9c-b0ea89ed370c",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-08-21",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "1dede2cc-3ced-4f46-a959-505a8de0e1cf",
+        "vehicle_id": "5639e5b3-db84-4efd-852d-d583564da9aa",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-08-08",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "88e5cc44-ea9d-4bfc-8621-01e3e17930e2",
+        "vehicle_id": "cfdf2f42-d617-448c-a72c-7d7becd91c4e",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2018-08-11",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "fd16f405-ed77-4181-858b-43e65020508c",
+        "vehicle_id": "000b4d48-c9e3-470a-a2dc-2ddb8da40b8b",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-09-14",
+        "status": "available",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "3245d68c-1ea8-4b89-8d03-137e54d0fb0f",
+        "vehicle_id": "713ea13f-e254-48ba-a681-114790d245fd",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-05-23",
+        "status": "maintenance",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "c6d9e950-8c5f-4590-a2b6-c9bb246878e9",
+        "vehicle_id": "6f7d118e-100f-4139-ac9f-56f93f3144ff",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2019-04-14",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "a4b6dc2a-15b7-4e5a-ac36-c7ba4f853bb5",
+        "vehicle_id": "ecf77f1c-0025-482c-8c75-e7f5253e1c83",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-07-08",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "3b4e982d-1e21-4533-a495-c9c298687866",
+        "vehicle_id": "a35512a3-7c21-4ab5-9da4-1e09591d7060",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-09-05",
+        "status": "reserved",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "8fb8b8a4-ac36-4d84-89dc-a20b137b93b1",
+        "vehicle_id": "ee7215e4-e290-4d4c-b8cd-96568ff9755d",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-03-30",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "8c7ab2c6-ad98-4b22-afc4-cf948ca94e58",
+        "vehicle_id": "9083d4d8-de5f-4c07-af41-6a74e78a58a0",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-10-21",
+        "status": "maintenance",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "611699ef-31bf-45ef-8aea-362f0460fd30",
+        "vehicle_id": "40840947-55d5-4fc4-90cb-0543d83e2211",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-06-04",
+        "status": "reserved",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "57b8f769-a814-4f3a-94be-4188e91bb634",
+        "vehicle_id": "bf685a6e-16af-44ee-8d02-c0e6380d961c",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-12-27",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "1ac19fcb-809b-4df8-b9a0-5f172f8ec91c",
+        "vehicle_id": "243b07c1-3962-47ac-9e3d-9531cf190f07",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-10-01",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "37e9b6b4-1658-4989-9bc9-8e6ce751fc5b",
+        "vehicle_id": "8fac61e5-7a2a-404a-b1f6-5665b2190fbf",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-08-24",
+        "status": "maintenance",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "cc9c17e5-bfca-497c-bf71-e30e8be76a8c",
+        "vehicle_id": "77bd748c-2b44-4ec0-9a06-b49a86835bb0",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-11-14",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "b6208072-4ee1-410f-bdea-5c17a01aabb3",
+        "vehicle_id": "58f8995d-6ba4-40fd-9a2f-1c14b0adef98",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-08-08",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "4a50abbf-c8fc-4018-87be-a3f7a0e4d25e",
+        "vehicle_id": "ae7f18ac-da85-4d49-b0ad-d2f206ce5f71",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2024-03-01",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "37651779-cb51-40ed-837a-a2eb44bf7b24",
+        "vehicle_id": "e0ee6a03-000c-4865-b344-2d01c9bbb42c",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-03-10",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "675638d1-550a-4290-bb90-4f8b69082630",
+        "vehicle_id": "8ad47e1c-5b3e-4552-b624-74938f450fa5",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2018-07-18",
+        "status": "reserved",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "de0dd392-fc3e-4011-a4ff-0bb5942a8ff5",
+        "vehicle_id": "0a182c0c-9be9-4f84-8a45-2ffde8daabc4",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2020-05-07",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "0ae547ae-e44e-4209-a064-cabc35a8f5be",
+        "vehicle_id": "f241fb52-8666-41f0-bea0-92a286d03471",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-11-28",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "7c6f0aaa-60ca-4c80-9096-cd942e3f656a",
+        "vehicle_id": "64b06da9-a200-4a91-9124-711045cba030",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2022-05-06",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "a6777538-8271-4cf8-8b80-3e5d8f88b719",
+        "vehicle_id": "18e19e53-88d1-47b3-b118-2efb1cff56d2",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-05-08",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "4213850f-ac84-4a8f-ae14-7ce5a158f9b5",
+        "vehicle_id": "f60d8729-7d5b-45cc-a4eb-128cddec7fc4",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-05-23",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "4bd08efb-a6da-496f-b0f3-df07dad6d24a",
+        "vehicle_id": "eae9c3af-def0-4fc8-9c84-be7df3e147ad",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-09-28",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "052c3d3e-98e2-41e6-98d3-484221a7f1c2",
+        "vehicle_id": "8275e07a-1b51-47b1-95b8-b3e7dd7a738a",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-07-21",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "dd68a211-7cbd-4f98-bafc-bcd4d8a4297b",
+        "vehicle_id": "28d2d7fd-c330-4c11-bb27-2adc7ec2137e",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2022-01-02",
+        "status": "available",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "bc965357-17d6-4510-b35e-bd1f8d255915",
+        "vehicle_id": "3be59dbf-768a-48cc-87bd-44d21c237014",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-04-21",
+        "status": "reserved",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "c020da85-60a4-4e80-b651-c8cae5d28855",
+        "vehicle_id": "f86753f9-a9f9-4366-8b71-1d6ffe2c86ba",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-03-10",
+        "status": "reserved",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "3200aaa3-1fab-4e65-8c3f-92bffd37293b",
+        "vehicle_id": "6b0c16b4-81a0-43fb-81fa-c8ce5f433182",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-01-14",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "5c4fb2cd-1cc0-4ac2-b19b-1c9e32055a98",
+        "vehicle_id": "c1318087-6c8f-4718-ae97-83a32cb560a7",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-03-15",
+        "status": "maintenance",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "486033ca-976e-416d-b9cf-699368b4a7d0",
+        "vehicle_id": "2e767c83-dbe7-467a-9e28-fe172be9cc73",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-09-12",
+        "status": "sold",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "3aaef834-6a53-453d-91a6-75cf10b8bb01",
+        "vehicle_id": "64d9e11a-a29c-4331-a48e-7b3845f90795",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-07-24",
+        "status": "sold",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "14503150-0fe9-4bb2-82c5-b0d46c88d108",
+        "vehicle_id": "10772596-0e8c-47b8-8c1a-15ca8e66e23a",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-07-09",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "a0b8fd68-fe22-4e5a-990e-e273d951816a",
+        "vehicle_id": "e568e994-3a83-49e3-8187-9466d0e3ba21",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-03-13",
+        "status": "reserved",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "1b385aba-cd38-4254-8f87-89759df4b71d",
+        "vehicle_id": "ce2f88a8-dcb6-4368-ad74-23114b528562",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-11-29",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "3a77002e-f517-4085-8270-e0278eb3fc32",
+        "vehicle_id": "bd18dd34-383c-4d21-8169-df7162033087",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-09-16",
+        "status": "sold",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "4aabf198-3af6-47b7-8593-3aa2de34a079",
+        "vehicle_id": "86b5dd85-6c5b-44e2-ad3d-7929877fe614",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2022-03-18",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "191a2828-68ee-4c2c-922b-f703d2c26003",
+        "vehicle_id": "e0889b27-30aa-49e2-aa40-d0b4533d5c10",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2024-04-12",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "8f9d9b82-f019-4d80-a3a4-7f42337ff5ba",
+        "vehicle_id": "dbc66dfb-03e7-457a-8e8a-bc44255eae66",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-03-03",
+        "status": "sold",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "04df3381-6656-4cc2-b86d-88812cbf43a4",
+        "vehicle_id": "43570b9a-9dcf-44ea-8a52-80332313cdd5",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-05-15",
+        "status": "maintenance",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "59944615-9120-44cd-a643-a0343b31dd9f",
+        "vehicle_id": "2a4c3632-eb41-4e74-b5ba-0724febd14ca",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2022-04-03",
+        "status": "sold",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "f7008c65-173a-4548-9fae-6739a8292b10",
+        "vehicle_id": "7fae38cf-8142-4e28-86b9-751b0052c039",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-08-22",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "7dea4dca-5b10-4fd3-a118-259b49afa8c1",
+        "vehicle_id": "979f5d7f-66cb-4d8e-b791-cd701909df9b",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-08-11",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "aafcc5d6-0c30-408a-96f4-acab1f851185",
+        "vehicle_id": "c74171df-ddb5-4e1a-bfba-1a6b75daf0b5",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2023-07-20",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "04ff2af7-17c2-4c6a-9eb1-e2e875fce35a",
+        "vehicle_id": "ee711568-0601-4887-b2dc-c7c00041b77c",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-12-24",
+        "status": "sold",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "bc16a2b6-1b31-48a6-916e-5a560d4d188e",
+        "vehicle_id": "7ee119d5-ec3e-43fa-b171-a8a0b1fecb3d",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-06-29",
+        "status": "maintenance",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "cf548814-3da8-4f9b-881f-d311ac0e9e1a",
+        "vehicle_id": "fd235b8d-a395-4e0d-bf71-ece4d4b91794",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-03-14",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "ac0d6dff-74c0-47a5-9c1c-417ab3abe312",
+        "vehicle_id": "feec4585-4e8a-4425-9815-2586644b1c83",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-11-08",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "25603762-a3f8-4a1d-9104-ba8f1af4f841",
+        "vehicle_id": "0d5a0e2c-15b2-4bc7-a82b-c7b0035570a6",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-04-16",
+        "status": "maintenance",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "c3c347d4-70b9-43cf-a5a1-752808279395",
+        "vehicle_id": "bf649a9b-ea5e-4706-a1cd-72b4efca17cb",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2024-05-21",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "c4b588ca-5477-4e42-95e1-7377f2b7a3b0",
+        "vehicle_id": "9246d743-1847-4252-bbc3-0cd26167bb2a",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-05-05",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "3b667576-f8eb-433d-b7a7-3aac6fb47b23",
+        "vehicle_id": "58fc61d8-6178-42d2-b95b-79404610813a",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2019-03-11",
+        "status": "sold",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "2c26eb75-4659-4d9d-8b40-08464521f921",
+        "vehicle_id": "6b0c16b4-81a0-43fb-81fa-c8ce5f433182",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2019-01-07",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "96cf080c-bb19-4bf5-b9a3-8a1b5d60d5d6",
+        "vehicle_id": "3783e4c1-5ec8-4776-8520-010efa3940cd",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-12-28",
+        "status": "sold",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "92fc0894-a4ac-4f6a-8d24-01fc16e869cd",
+        "vehicle_id": "892db9a2-88c3-4a82-beda-1704fb44d65c",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-06-18",
+        "status": "sold",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "cf1fdf6a-a519-48f7-ba3a-7945e0129988",
+        "vehicle_id": "1c43f5b9-9433-4aab-be1e-54a92f422274",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-05-10",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "8941b299-5f20-409c-8065-b5acd1ba0e60",
+        "vehicle_id": "e2083ea3-72a9-4e9b-88cf-59666b1d925f",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-08-03",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "fc378bb4-b8d5-4b2d-9d62-9e5f0e76dfbc",
+        "vehicle_id": "82d84a85-5b77-4995-8645-69fac1adcf27",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2023-06-27",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "dc7f23f8-b896-4543-a250-120eb22ea694",
+        "vehicle_id": "a174c67b-49dc-4e5d-8cac-528183844ce6",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-12-14",
+        "status": "sold",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "3a1834dc-ec5d-4db5-8ed8-b3771ae1cffb",
+        "vehicle_id": "24f56149-690a-4fcc-94c3-d2296fcea22c",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-07-22",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "df188fd4-4c79-4a0a-b937-d0ddc9b59929",
+        "vehicle_id": "2ded48e3-a190-43e5-9976-20b732f37327",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2020-05-05",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "4f6e5ff1-8dde-48a2-ba40-f6c68c35d224",
+        "vehicle_id": "79e3b38e-10c1-448e-9d8c-f5672e70198a",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-02-05",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "d5d20fcc-bd22-469c-97fc-742210905d11",
+        "vehicle_id": "7cc3dfdc-6a38-4765-86e9-a40a2f6abcdb",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2023-02-11",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "8610a55c-52ee-44cd-9197-5e609c89e101",
+        "vehicle_id": "fcccce9c-c1e1-4580-815a-00c8911466ac",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-11-20",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "669b1af8-61b2-4aeb-8a7a-531a0fc39859",
+        "vehicle_id": "f6064adf-8eab-4f5b-8243-380618d3e2e3",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2023-10-06",
+        "status": "maintenance",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "93b70105-24d5-4a61-bcd1-5fc073757c54",
+        "vehicle_id": "3ed11e38-f036-4db0-a502-6ec96a97c972",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-10-23",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "7d4e4d9f-0990-4c35-9d76-c61d334286b7",
+        "vehicle_id": "6d24d471-1d0d-489a-920e-4c3de8ebd8f4",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2020-11-24",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "9398eae1-1eb1-4beb-b812-62ce71173beb",
+        "vehicle_id": "77f15be8-04cf-4eda-8e1e-f43123c1ff9c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2018-09-15",
+        "status": "reserved",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "e5eec290-6065-411a-827c-f2d9a67d534a",
+        "vehicle_id": "fd235b8d-a395-4e0d-bf71-ece4d4b91794",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2021-09-12",
+        "status": "available",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "d8ec492a-eb0d-47f8-8fa2-3ac850abddf4",
+        "vehicle_id": "65dc30f6-f58d-41d8-9b9c-e2ad06db878b",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-04-01",
+        "status": "reserved",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "54b084c3-a065-469f-a482-62f0c020a768",
+        "vehicle_id": "97ed3cc7-f529-4ab0-92ba-8b931a55993b",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-09-04",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "a5ddf25e-eb71-4900-a464-05ba9a12ffc9",
+        "vehicle_id": "ce4bda0e-0cf4-4832-95a7-da80be445523",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-06-10",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "9b66488e-a5f0-41f3-930c-9c756e9409ad",
+        "vehicle_id": "81ac4976-acb7-42b9-baac-84c5c3234eb8",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-01-17",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "15f7ef3e-201c-4df9-b60c-75eab0a07a6e",
+        "vehicle_id": "e3d360cf-a8a3-4cd1-a1b0-8ac2a6254d23",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-08-14",
+        "status": "reserved",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "7c9e6cfe-09c7-45b3-bd1f-3ef6ca0e6131",
+        "vehicle_id": "8454f1a8-9bc7-47d8-98e2-4070e37d93e8",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-07-03",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "b778752c-138e-4b5e-bc40-2277a4ef4d9d",
+        "vehicle_id": "c9c95503-ccd7-4c19-a2b2-eff5c2881b7c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-01-18",
+        "status": "sold",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "e01bf73f-e424-4432-aa59-f618cc42a9be",
+        "vehicle_id": "4797a2a0-975b-40b9-b79a-60ce52d2da75",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-03-31",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "50245c4d-c0f2-472b-b259-b102289ddcd8",
+        "vehicle_id": "1c22349e-1f89-49c1-9219-8806d41fd8e2",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-01-11",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "c93f6b10-fa37-4717-8582-003831be84fb",
+        "vehicle_id": "41494e35-741b-4416-a668-fe96d7704a52",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-03-30",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "444bba35-0c91-4b80-987b-9466e1a0deac",
+        "vehicle_id": "fc931ae7-7f92-4aff-b8bd-433dd7fb7a52",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-08-23",
+        "status": "available",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "c4e0792d-0076-461e-b693-5faa3e5fff20",
+        "vehicle_id": "46a9c4ca-7eac-4223-822e-a96ad0ec0ae6",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-01-10",
+        "status": "maintenance",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "fd3c9ec9-b73a-482c-a02b-474557f4330d",
+        "vehicle_id": "f306a2bf-ae46-4d55-b3a8-dd7cc41e7408",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-06-07",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "efda2e24-932d-486a-b7ca-7e52e4f7e82e",
+        "vehicle_id": "4bce5c4c-26a1-4fc5-9e68-2a52c3b48624",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2023-08-29",
+        "status": "sold",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "d50254ed-fed8-4d44-b7f9-b15af8c46381",
+        "vehicle_id": "b0e629c9-8725-492c-952e-581b01ae5806",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2020-04-01",
+        "status": "sold",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "9faf58f2-ddbd-499c-b030-10e256d8223a",
+        "vehicle_id": "b697c2be-c879-4977-bca1-aacca5fb0052",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2024-05-11",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "9c107c41-520c-4b6c-a9a3-1b993dfd5eec",
+        "vehicle_id": "8148ddc9-fc9f-41dd-b8c0-b420269c8f23",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-11-21",
+        "status": "reserved",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "a3e474da-adc8-40f1-9a39-4da229c6dea8",
+        "vehicle_id": "91aec016-50d6-4f55-9338-b9ed640f05ea",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-06-08",
+        "status": "maintenance",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "b0c2036a-16b4-4922-81b9-8f194ec0a6bb",
+        "vehicle_id": "0a9a518b-4f80-4a9a-9157-2a6ec08671d2",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-05-27",
+        "status": "maintenance",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "22227322-a082-4538-a41f-8c77c9249763",
+        "vehicle_id": "8ad47e1c-5b3e-4552-b624-74938f450fa5",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-01-24",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "5a849e4b-d25a-4642-a73e-fdfae6873f79",
+        "vehicle_id": "fb05a960-fc36-4447-99e3-3d4876e82242",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-07-13",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "7d08ef33-75a3-4923-aceb-d0bc22538bd7",
+        "vehicle_id": "f42050b3-7efb-4f18-b5c3-9a7db03f4946",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-05-27",
+        "status": "reserved",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "1f9dab20-75ed-4129-832d-9bf7abb04203",
+        "vehicle_id": "4a72fc59-664a-4264-aa36-108f8ede4865",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-04-26",
+        "status": "available",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "31784b99-3b72-47f3-a3fc-31a3c691c50d",
+        "vehicle_id": "e0ee6a03-000c-4865-b344-2d01c9bbb42c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2023-09-15",
+        "status": "sold",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "347006dd-0cae-489e-a701-e94833083336",
+        "vehicle_id": "d63640d2-26b7-4c05-b092-a7360e6066b0",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-12-04",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "920810ab-539b-4c56-9d1e-ef8d4e44919e",
+        "vehicle_id": "63d98a88-80fa-41cb-9c30-cc7b9fd16c49",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2019-03-26",
+        "status": "available",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "7b9e7d05-86fb-4139-baa9-5f858e088dcf",
+        "vehicle_id": "ab42bc7e-e1e6-4221-9325-11e64e36a7fa",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2022-11-01",
+        "status": "maintenance",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "a6cd7d55-4600-4803-afaa-f962cf4c644c",
+        "vehicle_id": "65eaa438-0366-424d-a9c5-cd43b1b526dd",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2022-12-23",
+        "status": "reserved",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "17ea75a2-e695-49fc-a88b-9481422fd517",
+        "vehicle_id": "7be58d75-397d-407e-9487-00271d83ac29",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2023-01-20",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "a928a64c-034a-4b1b-b95d-146c1c6c58b8",
+        "vehicle_id": "8148ddc9-fc9f-41dd-b8c0-b420269c8f23",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2020-04-12",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "b76c1833-1b20-4d38-a550-885010530a5e",
+        "vehicle_id": "f9f6a3a8-4628-4f5f-9361-d578242070e2",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-09-03",
+        "status": "sold",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "473214bf-d55f-4c6b-9c45-d5aba5a0dcce",
+        "vehicle_id": "ae49807f-8446-4b80-a082-4cca042e4c0c",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-01-25",
+        "status": "reserved",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "ced2b7e3-9b5e-4fa9-ab1b-e249deb00631",
+        "vehicle_id": "3a8aa710-301b-46bd-824e-1318dd5734df",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-04-08",
+        "status": "maintenance",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "78b481c3-287a-420e-9995-735bd5f8021f",
+        "vehicle_id": "ab1b0f2d-7bcd-4ab9-84c4-07593fd32b26",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-06-18",
+        "status": "reserved",
+        "stock_quantity": 19
+    },
+    {
+        "inventory_id": "b5fd322f-cbf8-41ee-bc58-71c5a1368c45",
+        "vehicle_id": "5f72d9fe-50c9-4fc1-848e-d30933e795cc",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2024-05-13",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "93f69ab8-03ac-4e4f-bcfa-d835c2bc3157",
+        "vehicle_id": "656ff943-c59c-4d2f-b8b8-cd11ec8dc348",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-12-03",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "2948cb31-dacc-4128-bcf5-a40e33130ee8",
+        "vehicle_id": "a2c254d3-c7ae-4493-9e49-f97ff7d490fd",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2024-04-05",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "1d1f5197-589e-4826-901a-2ce4802182f0",
+        "vehicle_id": "36fd3544-7344-44ad-abd6-a5f09fd60c40",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2024-04-30",
+        "status": "available",
+        "stock_quantity": 18
+    },
+    {
+        "inventory_id": "cd8d213a-f4ca-4df7-8fe9-120b3497ebb2",
+        "vehicle_id": "2e281e9a-45b2-4b22-905d-ad3d67050cb5",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-06-30",
+        "status": "available",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "70b0de21-25e6-4545-942b-9133bd650358",
+        "vehicle_id": "3fc18a27-85db-41af-a97f-d9740e734871",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2019-03-22",
+        "status": "maintenance",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "9464d504-f72b-4b25-801a-b4832d81f84c",
+        "vehicle_id": "b6154b10-f0e4-41e2-b738-55e0600b5962",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-10-05",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "1d2bf07b-f869-4b67-af5f-1101fd95f712",
+        "vehicle_id": "6df50d51-1361-4030-a520-173d0e374406",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-12-20",
+        "status": "reserved",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "03e41cb6-3706-4425-a92a-c9c378f45c0d",
+        "vehicle_id": "d7b141e4-f2a1-4e6a-8b06-176a3746475b",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2021-04-28",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "0d2698ba-600a-46ba-a019-328bfd4db939",
+        "vehicle_id": "d7e4e873-6f52-4e1d-9418-2e2e4d3aec1c",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2024-04-26",
+        "status": "maintenance",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "3d0feee5-d9e9-494f-b0d0-7355eae3699b",
+        "vehicle_id": "85402cd1-5417-4b99-899d-ece3301ad605",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2020-10-09",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "5250dc26-7312-40aa-8ba7-37613cb75392",
+        "vehicle_id": "bdbf6c10-326e-4cb6-a803-a3a67bc09cf4",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-03-07",
+        "status": "sold",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "71bdb56a-d5b0-4e03-aacc-edaf0e8803ef",
+        "vehicle_id": "d345e5bd-e000-4a3d-add1-1d2135e5f624",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2019-02-26",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "a78b87e3-2be0-47f2-a6bd-427a67e5e6e0",
+        "vehicle_id": "7ce018fd-6e1b-430f-88c0-a04d6ad2e92a",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2018-07-27",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "ede47209-068e-4dd2-93c7-70dd20ca5e6a",
+        "vehicle_id": "505634dc-e8a6-40fe-b32e-03cff8c02395",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2019-02-14",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "916dd9fe-f09e-4014-bdc8-9fbe6d359b5d",
+        "vehicle_id": "0062893b-6f7f-486e-8ff1-d93d6ecc4867",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-11-07",
+        "status": "reserved",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "e6e7f80a-dbac-4555-8f4f-0923659549d8",
+        "vehicle_id": "003b8594-9553-44b0-97bb-2090b13e3eab",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-07-31",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "b1e8f1c3-5d47-44d2-a142-5df09fffc138",
+        "vehicle_id": "cc45c743-eee5-4d37-a148-e1a522f6aa07",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-02-08",
+        "status": "maintenance",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "fcf14340-28b9-49b4-be59-6b8bfa2a011a",
+        "vehicle_id": "f3de30ba-239a-4346-96e7-20158c9efba5",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-06-22",
+        "status": "sold",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "b0245554-a58c-4409-8f75-58e93b3b88b6",
+        "vehicle_id": "aa52ccc4-c833-4b52-9b21-fc8440dd2e6e",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2021-08-08",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "80c09e9d-2fcb-4454-9623-c8bfffe0bdae",
+        "vehicle_id": "a35512a3-7c21-4ab5-9da4-1e09591d7060",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2018-08-13",
+        "status": "available",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "90bed23a-b05e-467b-8379-7c1664f35b65",
+        "vehicle_id": "afc27b2e-d85c-4d1a-b034-b2770404a10b",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2022-12-28",
+        "status": "reserved",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "6c9931bc-f731-40df-8888-87148cc45487",
+        "vehicle_id": "c356646d-a982-4e73-aa15-08fb09c721df",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2018-07-25",
+        "status": "sold",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "362e0dd1-69da-495e-ba33-13ad50977430",
+        "vehicle_id": "bebe07de-2ea3-4436-be75-96341e25bdbd",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2020-07-19",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "7bcc41b5-b0a2-4fdf-8fd7-36fca5a49789",
+        "vehicle_id": "7cc3dfdc-6a38-4765-86e9-a40a2f6abcdb",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-10-07",
+        "status": "reserved",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "97cb1ce1-e22f-457d-80f7-99a67c912cb4",
+        "vehicle_id": "39721c63-67b1-4e43-b1e4-2925478cde20",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-04-27",
+        "status": "available",
+        "stock_quantity": 1
+    },
+    {
+        "inventory_id": "5aeb70e3-0f54-4230-be7a-757441c0b8cc",
+        "vehicle_id": "3916a47b-9b86-435e-a307-5e07a7029e1c",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-11-29",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "24b2d13f-c348-4b86-8b62-30e6c82ee3a8",
+        "vehicle_id": "5c96d165-b313-44d9-9f53-9587eac6f0e4",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2021-02-17",
+        "status": "reserved",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "d45c8815-ca79-4aa5-a690-b8bf7b971bf6",
+        "vehicle_id": "704275ca-8433-4856-8498-fe607fde6464",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2019-09-24",
+        "status": "maintenance",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "23da97f0-517b-4d34-a28b-64da25ac862e",
+        "vehicle_id": "67697e5d-8e2b-416c-8eef-890f8481bb5c",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2023-11-28",
+        "status": "maintenance",
+        "stock_quantity": 13
+    },
+    {
+        "inventory_id": "eaaa11b9-53bb-4070-853e-65161f90f389",
+        "vehicle_id": "cfc10f57-27f5-4c4e-830d-8affc871b21c",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2019-12-11",
+        "status": "reserved",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "79ff0ad0-ac5d-4541-8240-1d688ff5ae06",
+        "vehicle_id": "3fc18a27-85db-41af-a97f-d9740e734871",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2018-08-23",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "b78128e2-1765-48cc-ba08-97e19aaa2fe8",
+        "vehicle_id": "4e65eb5e-4633-4b09-85ba-99efa88c3d0f",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-08-04",
+        "status": "reserved",
+        "stock_quantity": 15
+    },
+    {
+        "inventory_id": "5b319219-8f22-43fb-b8d0-0925d49b6bb5",
+        "vehicle_id": "bd6709eb-7aa3-4af7-a67c-f9f0f5d0083d",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
+        "date_added": "2020-09-04",
+        "status": "reserved",
+        "stock_quantity": 2
+    },
+    {
+        "inventory_id": "3cd46546-9b8b-4145-85a6-75e80801eee6",
+        "vehicle_id": "ba0d1cdb-f47a-4c9b-b4bd-071ed1b47431",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2018-07-01",
+        "status": "maintenance",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "49895fb2-c9c1-429b-928a-bc965f2376ac",
+        "vehicle_id": "2fead589-edec-4a35-bfd8-eeed3c770b45",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-08-07",
+        "status": "reserved",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "2c8d16a9-79e8-4fb1-bbca-95794fdf0c86",
+        "vehicle_id": "cd6548a2-9995-4a3d-af41-1d758ab9d83b",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2024-01-06",
+        "status": "available",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "2dd2abe4-1105-4d8d-a288-c32e2809fef7",
+        "vehicle_id": "1eb45c33-926a-4096-bdc6-ef7ef6ba21aa",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-08-13",
+        "status": "available",
+        "stock_quantity": 9
+    },
+    {
+        "inventory_id": "765586e0-b5ed-4775-8da1-64655eef7e55",
+        "vehicle_id": "9faa133c-9c30-489a-b1c4-bd558c9d1edd",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2021-07-09",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "88a1d3ec-f952-4a3e-b017-7cc646fee71c",
+        "vehicle_id": "0ecc2344-a947-4fd1-b37f-52cd939b5ae1",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-02-23",
+        "status": "available",
+        "stock_quantity": 5
+    },
+    {
+        "inventory_id": "4f6d9122-eb38-4748-ba57-e6abcef86ea8",
+        "vehicle_id": "e5ab71bf-33a8-4a5c-93bd-b30199307482",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2019-12-04",
+        "status": "available",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "fc3e0b93-23c1-4ea0-bdc0-77b4483ee767",
+        "vehicle_id": "170ec968-1f49-47b1-a21a-96135ee713ea",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-11-02",
+        "status": "sold",
+        "stock_quantity": 3
+    },
+    {
+        "inventory_id": "bc5a933d-ee83-4469-898f-3c4951269af7",
+        "vehicle_id": "e0027765-a298-4b49-9d3c-d03685f01e36",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2021-07-07",
+        "status": "maintenance",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "fcbb649b-7adb-404a-b3ec-eb8fbc6d64f7",
+        "vehicle_id": "96e0bfe6-32db-4073-bfe6-b6e436ca2080",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2022-06-05",
+        "status": "available",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "d115a719-b469-4ad5-8e9b-88ac6d53860e",
+        "vehicle_id": "b9f70294-c9c4-402d-8a79-b5a64f688673",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2018-08-16",
+        "status": "sold",
+        "stock_quantity": 12
+    },
+    {
+        "inventory_id": "0fa9ff55-7a6a-4caf-8a34-6f6ae9fcbc68",
+        "vehicle_id": "76fe3714-361c-4203-a234-6afc204dd3e1",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
+        "date_added": "2022-09-06",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "14dc9db7-2bf6-4c1a-bdba-24e690460e83",
+        "vehicle_id": "a2f41084-3804-4d1a-82ac-f95c9f317495",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2019-08-07",
+        "status": "reserved",
+        "stock_quantity": 11
+    },
+    {
+        "inventory_id": "6b84f1e2-c241-49b2-9798-539a78c3a5ee",
+        "vehicle_id": "cf843419-ccb2-4070-87c1-f737eff32d0f",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
+        "date_added": "2022-03-16",
+        "status": "available",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "ca5b1ee7-5169-45df-ab1f-7bc738c9106e",
+        "vehicle_id": "faa48a49-4d1e-4776-9d78-e0100af48ae5",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2018-12-24",
+        "status": "sold",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "e58fad79-a461-4770-a3a2-b445b4840b07",
+        "vehicle_id": "af4000da-f89f-4319-be72-a294b3b23047",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2020-02-12",
+        "status": "reserved",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "2e2e6e50-b833-4200-b05c-5700fd0829f7",
+        "vehicle_id": "345a7e20-f28d-46f6-80fd-1aa2dad9cd35",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
+        "date_added": "2023-09-25",
+        "status": "available",
+        "stock_quantity": 6
+    },
+    {
+        "inventory_id": "979acf00-6754-4769-a0a6-621dab2b4146",
+        "vehicle_id": "e9ecaae5-c08c-4d20-89d4-e7b0f82fe27e",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2021-09-30",
+        "status": "sold",
+        "stock_quantity": 17
+    },
+    {
+        "inventory_id": "3869b982-9bbf-4da1-b663-f7afa0d5c482",
+        "vehicle_id": "e4d2a7cf-2b2e-4584-93ab-2b2196c60958",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2021-05-12",
+        "status": "maintenance",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "e9b4b3dc-3c58-40ac-9f6b-61549fef02f9",
+        "vehicle_id": "df4c546f-6122-4c46-9e89-eaf3edf76ef2",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8",
+        "date_added": "2024-04-29",
+        "status": "sold",
+        "stock_quantity": 16
+    },
+    {
+        "inventory_id": "0c1ee491-f8f8-447a-b0da-6c2e889ab520",
+        "vehicle_id": "d7e4e873-6f52-4e1d-9418-2e2e4d3aec1c",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-10-13",
+        "status": "maintenance",
+        "stock_quantity": 4
+    },
+    {
+        "inventory_id": "89619bad-b67c-4921-92ed-10e2fbe89b7e",
+        "vehicle_id": "6b92344b-cf12-4004-a9bb-94bf796779dd",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2021-05-04",
+        "status": "maintenance",
+        "stock_quantity": 7
+    },
+    {
+        "inventory_id": "3de11a00-da2e-4462-be4c-695272d9e417",
+        "vehicle_id": "7dde9688-4122-4861-93d6-a8e8030fca08",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
+        "date_added": "2022-05-02",
+        "status": "available",
+        "stock_quantity": 20
+    },
+    {
+        "inventory_id": "19e653e2-7745-423b-bc81-bbfa9ef67c65",
+        "vehicle_id": "7b01f690-579a-46d1-92ff-d95e8c57225e",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
+        "date_added": "2019-01-11",
+        "status": "reserved",
+        "stock_quantity": 14
+    },
+    {
+        "inventory_id": "73302cde-84d3-417b-b598-1b9918a97ff3",
+        "vehicle_id": "369f6687-6a00-40d3-91f8-e98605dc09dc",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
+        "date_added": "2022-09-24",
+        "status": "reserved",
+        "stock_quantity": 8
+    },
+    {
+        "inventory_id": "f2652c16-383a-4992-9ca8-0d2c69e668f9",
+        "vehicle_id": "1385954c-9e87-4c46-ba92-ce54effda56e",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
+        "date_added": "2020-06-26",
+        "status": "available",
+        "stock_quantity": 10
+    },
+    {
+        "inventory_id": "7f02c627-0c36-4db1-881d-a702da46be04",
+        "vehicle_id": "a210fc76-2916-491c-b201-77b8657bf9ad",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
+        "date_added": "2023-07-18",
+        "status": "sold",
+        "stock_quantity": 6
+    }
+]

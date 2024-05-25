@@ -1,0 +1,452 @@
+[
+    {
+        "salesperson_id": "29301c56-658e-48fd-9a70-4d7e804e32a0",
+        "first_name": "Wesley",
+        "last_name": "Parks",
+        "email": "baxterlindsay@example.org",
+        "phone_number": "(442)733-7023x24890",
+        "hire_date": "2020-10-15",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "d0f1b8db-046e-4bd5-b5ef-e4cbcc9e0bd5",
+        "first_name": "Michele",
+        "last_name": "Franklin",
+        "email": "thompsonjoshua@example.com",
+        "phone_number": "001-620-746-1598x8834",
+        "hire_date": "2022-11-28",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8"
+    },
+    {
+        "salesperson_id": "3e151aaf-9038-43a1-b078-223d190c912c",
+        "first_name": "Brooke",
+        "last_name": "Allen",
+        "email": "jasoncastro@example.net",
+        "phone_number": "001-722-861-8529x4848",
+        "hire_date": "2023-10-12",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46"
+    },
+    {
+        "salesperson_id": "2b21e907-dd56-4b1a-805e-b2b524ae3e3a",
+        "first_name": "Robert",
+        "last_name": "Sloan",
+        "email": "stephenjones@example.net",
+        "phone_number": "879-595-5965",
+        "hire_date": "2020-02-10",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a"
+    },
+    {
+        "salesperson_id": "03bfe005-938f-4cb1-96a0-0f30bb524de2",
+        "first_name": "Edward",
+        "last_name": "Parker",
+        "email": "ethansmith@example.net",
+        "phone_number": "+1-941-818-0099x1074",
+        "hire_date": "2019-03-22",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8"
+    },
+    {
+        "salesperson_id": "bf0d0a86-0e60-43b5-90af-29b57d49b003",
+        "first_name": "Nicole",
+        "last_name": "Williams",
+        "email": "jessica99@example.net",
+        "phone_number": "3799316167",
+        "hire_date": "2022-12-18",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a"
+    },
+    {
+        "salesperson_id": "c10e333a-8b4f-4b78-a842-60847db1249c",
+        "first_name": "Larry",
+        "last_name": "Long",
+        "email": "cruzkevin@example.org",
+        "phone_number": "+1-373-532-3693",
+        "hire_date": "2019-07-06",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a"
+    },
+    {
+        "salesperson_id": "44c69520-572c-43bd-b5ec-8bdd2fe89be2",
+        "first_name": "Tracy",
+        "last_name": "Daniels",
+        "email": "denisefrazier@example.net",
+        "phone_number": "001-867-776-2078x09136",
+        "hire_date": "2022-10-22",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee"
+    },
+    {
+        "salesperson_id": "b30eff8d-3db8-46b9-b1e2-7890e99fc560",
+        "first_name": "Cody",
+        "last_name": "Anderson",
+        "email": "salinasmeghan@example.com",
+        "phone_number": "(231)654-5863x6517",
+        "hire_date": "2019-02-01",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8"
+    },
+    {
+        "salesperson_id": "173414a8-757a-49d8-b7ad-882a5dce85ae",
+        "first_name": "Robert",
+        "last_name": "Brown",
+        "email": "vanessabennett@example.com",
+        "phone_number": "886-275-6888",
+        "hire_date": "2019-10-02",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d"
+    },
+    {
+        "salesperson_id": "3a55f8db-c590-4ef0-8bf1-3cb08750ec42",
+        "first_name": "Stuart",
+        "last_name": "Holmes",
+        "email": "cory65@example.org",
+        "phone_number": "915.852.4278x8509",
+        "hire_date": "2020-03-02",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1"
+    },
+    {
+        "salesperson_id": "412517cb-c8ef-4580-8a39-78575037a8b2",
+        "first_name": "Robert",
+        "last_name": "Bowman",
+        "email": "adamsshawn@example.org",
+        "phone_number": "(699)298-6696",
+        "hire_date": "2019-11-10",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1"
+    },
+    {
+        "salesperson_id": "2d7129ec-11bb-43af-a0b1-a78b3b0f6b9f",
+        "first_name": "Donna",
+        "last_name": "Davidson",
+        "email": "hrodriguez@example.net",
+        "phone_number": "(626)537-7808",
+        "hire_date": "2023-04-29",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8"
+    },
+    {
+        "salesperson_id": "ffd6438a-8b89-411b-8fbb-e6a8e30223dc",
+        "first_name": "Tammy",
+        "last_name": "Miller",
+        "email": "johnsonaaron@example.org",
+        "phone_number": "5864728557",
+        "hire_date": "2020-06-18",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a"
+    },
+    {
+        "salesperson_id": "86e9acca-f159-4fb4-ab9c-ec205e590a2f",
+        "first_name": "Jill",
+        "last_name": "Baxter",
+        "email": "williamharris@example.com",
+        "phone_number": "001-550-597-8404x441",
+        "hire_date": "2019-10-02",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8"
+    },
+    {
+        "salesperson_id": "b0b24740-1e73-40d6-8034-28ec90cd3151",
+        "first_name": "Patrick",
+        "last_name": "Williams",
+        "email": "florescaitlin@example.net",
+        "phone_number": "+1-439-998-6023x5902",
+        "hire_date": "2021-03-17",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "62abfd86-8a8f-4957-bb92-19162abb882d",
+        "first_name": "James",
+        "last_name": "Cooper",
+        "email": "rramirez@example.org",
+        "phone_number": "322.263.4548x0126",
+        "hire_date": "2023-05-17",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "f8be65f5-e0be-43ed-af9f-2fa7c4fd57a8",
+        "first_name": "Daniel",
+        "last_name": "Lewis",
+        "email": "coryhayes@example.net",
+        "phone_number": "(901)829-5083",
+        "hire_date": "2022-01-20",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d"
+    },
+    {
+        "salesperson_id": "58bfc353-9e7d-435f-abb2-1563ff077e4a",
+        "first_name": "Debra",
+        "last_name": "Lawrence",
+        "email": "erikagonzales@example.net",
+        "phone_number": "224.288.0852",
+        "hire_date": "2021-10-28",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d"
+    },
+    {
+        "salesperson_id": "f99fb148-c7fd-4b05-88f6-290f177a44bd",
+        "first_name": "Natasha",
+        "last_name": "Fields",
+        "email": "jamie59@example.net",
+        "phone_number": "001-617-832-2106x258",
+        "hire_date": "2020-10-19",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "27a2330b-977c-4813-bb72-864ec410fd93",
+        "first_name": "Caroline",
+        "last_name": "Shelton",
+        "email": "bwells@example.com",
+        "phone_number": "001-798-370-5136",
+        "hire_date": "2019-06-20",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a"
+    },
+    {
+        "salesperson_id": "a87314ae-fef5-446a-90d4-47d4ef171864",
+        "first_name": "Brandon",
+        "last_name": "Cook",
+        "email": "montgomerytammy@example.net",
+        "phone_number": "001-932-531-8419x66048",
+        "hire_date": "2019-02-16",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a"
+    },
+    {
+        "salesperson_id": "324f5172-e5d9-4763-9996-f4f91891adf3",
+        "first_name": "Mary",
+        "last_name": "Holt",
+        "email": "chrisharmon@example.com",
+        "phone_number": "807.333.3552",
+        "hire_date": "2019-10-21",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8"
+    },
+    {
+        "salesperson_id": "5324ebf0-22a3-47ac-991d-97410059e75f",
+        "first_name": "James",
+        "last_name": "Cruz",
+        "email": "reillyjames@example.net",
+        "phone_number": "891-472-1196x69906",
+        "hire_date": "2019-01-02",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1"
+    },
+    {
+        "salesperson_id": "0d58e735-6333-472b-91fd-5f982ad09a97",
+        "first_name": "Brian",
+        "last_name": "Lopez",
+        "email": "danielosborn@example.net",
+        "phone_number": "(633)856-9035",
+        "hire_date": "2020-07-01",
+        "dealership_id": "730baef1-4c06-449f-888a-2b1ee84897c8"
+    },
+    {
+        "salesperson_id": "6da47b0f-b7c6-47e5-ae4d-221f0b0c8f28",
+        "first_name": "Peter",
+        "last_name": "Leblanc",
+        "email": "downskelly@example.com",
+        "phone_number": "001-748-430-9318x61284",
+        "hire_date": "2019-02-15",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "40089d6c-64c0-4d42-9a3e-4025c689415d",
+        "first_name": "Nicole",
+        "last_name": "Williams",
+        "email": "zwheeler@example.com",
+        "phone_number": "919-923-3562",
+        "hire_date": "2024-04-14",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "b636c04e-9470-4799-bcc6-507fc8ddc68e",
+        "first_name": "Travis",
+        "last_name": "Matthews",
+        "email": "rodney97@example.com",
+        "phone_number": "001-514-462-7938x8343",
+        "hire_date": "2023-09-11",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "6f2fd099-f1d7-4868-b1f7-b85191868659",
+        "first_name": "Brian",
+        "last_name": "Davis",
+        "email": "stonelori@example.com",
+        "phone_number": "687-823-8727x471",
+        "hire_date": "2024-03-30",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "b6f7c9c0-0da8-410b-8ae6-f61d8091ea78",
+        "first_name": "Allison",
+        "last_name": "Johnson",
+        "email": "james43@example.org",
+        "phone_number": "(704)810-1868x39719",
+        "hire_date": "2021-08-04",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "da5729e0-2db8-4bad-a995-16dcfff5accc",
+        "first_name": "Kimberly",
+        "last_name": "Carson",
+        "email": "maddenstephanie@example.com",
+        "phone_number": "(449)688-3835x64372",
+        "hire_date": "2020-07-23",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "8349e5b7-7507-49ce-87e0-546e89bb35a7",
+        "first_name": "Melissa",
+        "last_name": "Johnson",
+        "email": "corozco@example.net",
+        "phone_number": "+1-245-893-7299x55911",
+        "hire_date": "2021-04-11",
+        "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46"
+    },
+    {
+        "salesperson_id": "21446993-a975-4f82-9250-8c79009dc13c",
+        "first_name": "Michael",
+        "last_name": "Walker",
+        "email": "grantcarroll@example.com",
+        "phone_number": "389.983.1126x3355",
+        "hire_date": "2018-12-19",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a"
+    },
+    {
+        "salesperson_id": "81bebe26-17d0-40f0-bb1a-bd518ed598c7",
+        "first_name": "Lawrence",
+        "last_name": "Nelson",
+        "email": "ygarner@example.net",
+        "phone_number": "001-258-759-4906x608",
+        "hire_date": "2020-12-09",
+        "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a"
+    },
+    {
+        "salesperson_id": "9066f529-9f01-4db2-894d-d208312af745",
+        "first_name": "Jessica",
+        "last_name": "Leonard",
+        "email": "awalker@example.net",
+        "phone_number": "+1-285-736-4458x885",
+        "hire_date": "2019-08-10",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919"
+    },
+    {
+        "salesperson_id": "f966fa60-2f19-4958-a967-ffd7cf14d0ed",
+        "first_name": "Christie",
+        "last_name": "Martinez",
+        "email": "aprilcohen@example.org",
+        "phone_number": "207-296-2273x346",
+        "hire_date": "2019-05-29",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "8c849486-11fb-4160-8b28-ae4b01dc8b2f",
+        "first_name": "Daniel",
+        "last_name": "Lopez",
+        "email": "isaiah11@example.org",
+        "phone_number": "001-327-745-3600",
+        "hire_date": "2020-09-28",
+        "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee"
+    },
+    {
+        "salesperson_id": "82db448a-2ebe-40e8-8219-4e05657c1501",
+        "first_name": "Olivia",
+        "last_name": "King",
+        "email": "beasleysheryl@example.org",
+        "phone_number": "001-221-616-2542x231",
+        "hire_date": "2019-01-26",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919"
+    },
+    {
+        "salesperson_id": "2ff4b2c2-878e-4077-ac7c-ec6d73f31b51",
+        "first_name": "Ryan",
+        "last_name": "Kennedy",
+        "email": "ronald58@example.org",
+        "phone_number": "739-308-8385",
+        "hire_date": "2019-03-03",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "2d00ae8b-f559-4015-b4f4-6b80256090fc",
+        "first_name": "Gabrielle",
+        "last_name": "Olsen",
+        "email": "delgadojodi@example.com",
+        "phone_number": "+1-619-338-5130x50288",
+        "hire_date": "2021-05-08",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "77a47ae8-4ee3-41e3-9a3d-8c5c48eb2f39",
+        "first_name": "Ashley",
+        "last_name": "Morrison",
+        "email": "kyleparker@example.org",
+        "phone_number": "469-885-6339",
+        "hire_date": "2022-04-18",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "3dec0f4f-5e5f-4a0d-a9c5-4313e49395c4",
+        "first_name": "Brittany",
+        "last_name": "Bell",
+        "email": "mtorres@example.com",
+        "phone_number": "5406951913",
+        "hire_date": "2022-05-23",
+        "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919"
+    },
+    {
+        "salesperson_id": "7035a1c4-ef01-4266-ab34-b0d805925cc7",
+        "first_name": "Thomas",
+        "last_name": "Best",
+        "email": "cardenasbarbara@example.com",
+        "phone_number": "001-756-651-7154x400",
+        "hire_date": "2020-06-27",
+        "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b"
+    },
+    {
+        "salesperson_id": "cbfa6cb5-ae7b-448f-a680-28ca195172ab",
+        "first_name": "Stacey",
+        "last_name": "Maldonado",
+        "email": "alexandermeyer@example.org",
+        "phone_number": "468.940.8216x6789",
+        "hire_date": "2023-01-30",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "a330f8bf-98cd-4f9d-bcdf-0f776c1bca27",
+        "first_name": "Tabitha",
+        "last_name": "Miller",
+        "email": "maria00@example.com",
+        "phone_number": "(438)978-6936x98677",
+        "hire_date": "2022-12-19",
+        "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f"
+    },
+    {
+        "salesperson_id": "a23a4354-b4aa-4d47-90a7-6081c5a05d62",
+        "first_name": "Daniel",
+        "last_name": "Moore",
+        "email": "sfuentes@example.com",
+        "phone_number": "516-468-0384",
+        "hire_date": "2020-10-03",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1"
+    },
+    {
+        "salesperson_id": "7c198925-c14a-47cd-81e2-b0521da2eeac",
+        "first_name": "Donald",
+        "last_name": "Jacobs",
+        "email": "sarahjackson@example.com",
+        "phone_number": "503.250.4236x8783",
+        "hire_date": "2023-08-03",
+        "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d"
+    },
+    {
+        "salesperson_id": "e8a940ee-a716-4ee3-9508-e556cc432a45",
+        "first_name": "Jasmine",
+        "last_name": "Baxter",
+        "email": "lisa70@example.com",
+        "phone_number": "+1-726-308-8337x72946",
+        "hire_date": "2022-02-01",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1"
+    },
+    {
+        "salesperson_id": "5b967256-cf76-480b-8e7e-919ba448f861",
+        "first_name": "Marissa",
+        "last_name": "Navarro",
+        "email": "allenrogers@example.org",
+        "phone_number": "(525)583-4488x342",
+        "hire_date": "2018-08-23",
+        "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a"
+    },
+    {
+        "salesperson_id": "ba59aa2d-de18-4d1a-af08-cd864dd335c9",
+        "first_name": "Eddie",
+        "last_name": "Walker",
+        "email": "campbellerika@example.com",
+        "phone_number": "475.673.9487",
+        "hire_date": "2020-06-19",
+        "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1"
+    }
+]
