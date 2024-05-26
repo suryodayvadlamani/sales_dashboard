@@ -12,6 +12,10 @@ export const getSales = () => {
 
             const s = {
                 ...lineConfig,
+                color: {
+                    backGround: "#ffe2e5",
+                    boxShadow: "0px 0px 13px 0px #e0c6f5",
+                },
                 type:'line',
                 png: 'FaDollarSign',
                 title: "Sales",
@@ -23,6 +27,9 @@ export const getSales = () => {
                     }
                 ],
                 options: {
+                    grid:{
+                        show:false
+                    },
                     ...lineConfig.options,
                     xaxis: {
                         categories: dates
@@ -43,6 +50,10 @@ export const getRevenue = () => {
 
             const s = {
                 ...lineConfig,
+                color: {
+                    backGround: "#FFF4DE",
+                    boxShadow: "0px 0px 13px 0px #e0c6f5",
+                },
                 png: 'FaCoins',
                 title: "Revenue",
                 value: formatCash(revenueSeries.reduce((partialSum, a) => partialSum + a, 0)),
@@ -54,6 +65,9 @@ export const getRevenue = () => {
                     }
                 ],
                 options: {
+                    grid:{
+                        show:false
+                    },
                     ...lineConfig.options,
                     xaxis: {
                         categories: dates
@@ -85,6 +99,10 @@ export const getInventory = () => {
 
             const s = {
                 ...barConfig,
+                color: {
+                    backGround: "#DCFCE7",
+                    boxShadow: "0px 0px 13px 0px #e0c6f5",
+                },
                 type:'bar',
                 png: 'FaCoins',
                 title: "Inventory",
@@ -96,6 +114,9 @@ export const getInventory = () => {
                     }
                 ],
                 options: {
+                    grid:{
+                        show:false
+                    },
                     ...barConfig.options,
                     xaxis: {
                         categories: makesModels

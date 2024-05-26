@@ -8,7 +8,7 @@ const Sales = () => {
         queryFn: () => getSales()
     });
 
-    return <div className="parentContainer">
+    return <div >
         {!isLoading && <Card data={data} />}
     </div>
 }

@@ -3,7 +3,7 @@ import { FaUser } from "react-icons/fa";
 
 const Navbar = () => {
     return (
-        <nav className="flex items-center fixed-top bg-[#24243e] justify-between p-1">
+        <nav className="flex items-center fixed-top bg-white justify-between p-1">
             <div className="items-center text-center p-2 flex gap-2">
                 <img src={logo} alt="logo" className="h-12" />
                 Sales Dashboard</div>

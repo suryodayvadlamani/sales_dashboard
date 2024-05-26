@@ -10,22 +10,40 @@ import DynamicIcon from "../DynamicIcon";
 // parent Card
 
 const Card = (props) => {
-  
+
   const [expanded, setExpanded] = useState(false);
   return (
     <>
       {expanded ? (
         <ExpandedCard params={props} setExpanded={() => setExpanded(false)} />
       ) : (
-        <CompactCard params={props} setExpanded={() => setExpanded(true)} />
+        <TitleCard params={props} setExpanded={() => setExpanded(true)} />
       )}
     </>
   );
 };
-
+function TitleCard({ params, setExpanded }) {
+  const param = params.data;
+  return <div
+    onClick={setExpanded}
+    style={{
+      background: param.color.backGround,
+      boxShadow: param.color.boxShadow,
+    }}
+    className={`flex flex-col h-44 p-4 rounded-xl gap-4 w-44 cursor-pointer`}>
+    <DynamicIcon iconName={param.png} />
+    <span className="text-2xl font-bold flex-1">
+      {param.value}
+    </span>
+    <div className="flex flex-col">
+      <span className="text-sm"> {param.title}</span>
+      <span className="text-xs text-[#4079ed]">+8 from yesterday</span>
+    </div>
+  </div>
+}
 // Compact Card
 function CompactCard({ params, setExpanded }) {
-const param = params.data;
+  const param = params.data;
   return (
     <motion.div
       className={cn(
@@ -35,6 +53,7 @@ const param = params.data;
       style={{
         background: param.color.backGround,
         boxShadow: param.color.boxShadow,
+        color:'black'
       }}
       layoutId="compactCard"
       onClick={setExpanded}
@@ -63,19 +82,20 @@ function ExpandedCard({ params, setExpanded }) {
     <motion.div
       className="ExpandedCard"
       style={{
+        zIndex: 20,
         background: param.color.backGround,
         boxShadow: param.color.boxShadow,
       }}
       layoutId="expandableCard"
     >
-      <div style={{ alignSelf: "flex-end", cursor: "pointer", color: "white" }}>
+      <div style={{ alignSelf: "flex-end", cursor: "pointer" }}>
         <IoClose onClick={setExpanded} />
       </div>
-      <span>{param.title}</span>
+      <span className="text-black">{param.title}</span>
       <div className="chartContainer">
         <Chart options={param.options} series={param.series} type={param.type} />
       </div>
-      <span>Last 24 hours</span>
+      <span className="text-black">Last 24 hours</span>
     </motion.div>
   );
 }

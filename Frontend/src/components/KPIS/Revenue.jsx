@@ -8,7 +8,7 @@ const Revenue = () => {
         queryFn: () => getRevenue()
     });
 
-    return <div className="parentContainer">
+    return <div>
         {!isLoading && <Card data={data} />}
     </div>
 }

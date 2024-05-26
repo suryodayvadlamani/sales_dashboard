@@ -3,12 +3,12 @@ import { getInventory } from "../../api/KPI"
 import Card from "../card/Card"
 
 const Inventory = () => {
-    const { data, isLoading,  } = useQuery({
+    const { data, isLoading, } = useQuery({
         queryKey: ['KPI_INVENTORY'],
         queryFn: () => getInventory()
     });
 
-    return <div className="parentContainer">
+    return <div >
         {!isLoading && <Card data={data} />}
     </div>
 }
