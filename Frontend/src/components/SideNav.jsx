@@ -3,9 +3,9 @@ import DynamicIcon from './DynamicIcon';
 
 const SideNav = () => {
     const menuItems = [
-        { id: 1, name: 'Home', icon: 'FaHome' },
-        { id: 2, name: 'Profile', icon: 'FaUser' },
-        { id: 3, name: 'Settings', icon: 'FaCog' },
+        { id: 1, name: 'Dashboard', icon: 'FaChartLine' },
+        { id: 2, name: 'Order', icon: 'FaShoppingBasket' },
+        { id: 3, name: 'Products', icon: 'FaCartArrowDown' },
     ];
     const [selected, setSelected] = useState(menuItems[0].id);
 

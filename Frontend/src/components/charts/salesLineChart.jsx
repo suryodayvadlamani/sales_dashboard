@@ -3,15 +3,17 @@ import Chart from "react-apexcharts";
 import axios from 'axios';
 import { useQuery } from '@tanstack/react-query';
 import formatCash from '../../lib/formatCash';
+import { FilterContext } from "../../providers/FilterContext";
+import { useContext } from "react";
 
 const SalesLineChart = () => {
 
-
+    const { filters } = useContext(FilterContext);
     const { data, isLoading } = useQuery({
-        queryKey: ['lineData'],
+        queryKey: ['lineData', {...filters}],
         queryFn: () =>
             axios
-                .get('http://localhost:8000/sales-data')
+                .get('http://localhost:8000/sales-data', {params:filters})
                 .then((res) => {
                     const salesData = res.data;
                     const dates = salesData.map(entry => entry.sale_date);

@@ -3,15 +3,17 @@ import axios from 'axios';
 import { useQuery } from '@tanstack/react-query';
 import formatCash from '../../lib/formatCash';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '../UI/Table';
+import { FilterContext } from "../../providers/FilterContext";
+import { useContext } from "react";
 
 const TopMakes = () => {
 
-
+    const { filters } = useContext(FilterContext);
     const { data, isLoading } = useQuery({
-        queryKey: ['makesData'],
+        queryKey: ['makesData',{...filters}],
         queryFn: () =>
             axios
-                .get('http://localhost:8000/topMakeSales')
+                .get('http://localhost:8000/topMakeSales', {params:filters})
                 .then((res) => {
                     return res.data
                 }),
