@@ -8,7 +8,6 @@ import * as React from "react"
 import {
   Command,
   CommandEmpty,
-  CommandGroup,
   CommandInput,
   CommandItem,
   CommandList,
@@ -32,11 +31,9 @@ export function Combobox({ options, value, setValue }) {
           variant="outline"
           role="combobox"
           aria-expanded={open}
-          className="w-[200px] justify-between"
+          className=" justify-between"
         >
-          {value
-            ? options.find((option) => option === value)
-            : "Select option..."}
+          {value ??  "Select option..."}
           <CaretSortIcon className="ml-2 h-4 w-4 shrink-0 opacity-50" />
         </Button>
       </PopoverTrigger>

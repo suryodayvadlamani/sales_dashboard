@@ -7,6 +7,7 @@ import { IoClose } from "react-icons/io5";
 import "./Card.css";
 import { cn } from "../../lib/util";
 import DynamicIcon from "../DynamicIcon";
+import formatCash from "../../lib/formatCash";
 // parent Card
 
 const Card = (props) => {
@@ -24,20 +25,22 @@ const Card = (props) => {
 };
 function TitleCard({ params, setExpanded }) {
   const param = params.data;
+  const isLoading = params.isLoading;
   return <div
     onClick={setExpanded}
     style={{
-      background: param.color.backGround,
-      boxShadow: param.color.boxShadow,
+      background: param?.color.backGround,
+      boxShadow: param?.color.boxShadow,
     }}
     className={`flex flex-col h-44 p-4 rounded-xl gap-4 w-44 cursor-pointer`}>
-    <DynamicIcon iconName={param.png} />
+    <DynamicIcon iconName={isLoading?'FaTruckLoading':param.png} />
     <span className="text-2xl font-bold flex-1">
-      {param.value}
+      
+      {isLoading?formatCash(0):param.value}
     </span>
     <div className="flex flex-col">
-      <span className="text-sm"> {param.title}</span>
-      <span className="text-xs text-[#4079ed]">+8 from yesterday</span>
+      <span className="text-sm"> {isLoading? 'Men at work': param.title}</span>
+      <span className="text-xs text-[#4079ed]">{isLoading? '...............': '+8 from yesterday'}</span>
     </div>
   </div>
 }

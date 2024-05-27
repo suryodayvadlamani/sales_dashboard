@@ -34,7 +34,9 @@ db.serialize(() => {
         location VARCHAR(255),
         phone_number VARCHAR(15),
         email VARCHAR(100),
-        manager_name VARCHAR(50)
+        manager_name VARCHAR(50),
+        lat REAL,
+        long REAL
 )`);
 
     db.run(` CREATE TABLE Salespersons (

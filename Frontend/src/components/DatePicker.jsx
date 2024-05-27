@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import { CalendarIcon } from "@radix-ui/react-icons"
-import { addDays, format } from "date-fns"
+import {  format } from "date-fns"
 
 import { cn } from "../lib/util"
 import { Button } from "./UI/Button"
@@ -17,10 +17,10 @@ export function DatePickerWithRange({
   className,date, setDate
 }) {
  
-
+  const [isCalendarOpen, setIsCalendarOpen] = React.useState(false);
   return (
     <div className={cn("grid gap-2", className)}>
-      <Popover>
+      <Popover open={isCalendarOpen} onOpenChange={setIsCalendarOpen}>
         <PopoverTrigger asChild>
           <Button
             id="date"
@@ -51,7 +51,7 @@ export function DatePickerWithRange({
             mode="range"
             defaultMonth={date?.from}
             selected={date}
-            onSelect={setDate}
+            onSelect={(e) => {setDate(e);}}
             numberOfMonths={2}
           />
         </PopoverContent>

@@ -25,7 +25,9 @@ def generate_dealerships(num_records):
             "location": fake.address().replace('\n', ', '),
             "phone_number": fake.phone_number(),
             "email": fake.email(),
-            "manager_name": fake.name()
+            "manager_name": fake.name(),
+            "lat":fake.location.latitude(),
+            "long":fake.location.longitude()
         })
     return dealerships
 

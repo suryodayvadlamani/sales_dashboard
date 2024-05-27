@@ -2,9 +2,9 @@ import formatCash from "../lib/formatCash";
 import lineConfig from "../config/lineChart"
 import barConfig from "../config/barChart"
 import axios from "axios";
-export const getSales = () => {
+export const getSales = (filters) => {
     return axios
-        .get('http://localhost:8000/sales')
+        .get('http://localhost:8000/sales', {params:filters})
         .then((res) => {
             const salesData = res.data;
             const dates = salesData.map(entry => entry.sale_date);
@@ -40,9 +40,9 @@ export const getSales = () => {
             return s;
         })
 }
-export const getRevenue = () => {
+export const getRevenue = (filters) => {
     return axios
-        .get('http://localhost:8000/revenue')
+        .get('http://localhost:8000/revenue', {params:filters})
         .then((res) => {
             const revenueData = res.data;
             const dates = revenueData.map(entry => entry.sale_date);
@@ -88,9 +88,9 @@ export const getRevenue = () => {
             return s;
         })
 }
-export const getInventory = () => {
+export const getInventory = (filters) => {
     return axios
-        .get('http://localhost:8000/inventory')
+        .get('http://localhost:8000/inventory', {params:filters})
         .then((res) => {
             const inventoryData = res.data;
 

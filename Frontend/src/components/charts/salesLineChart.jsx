@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Chart from "react-apexcharts";
 import axios from 'axios';
 import { useQuery } from '@tanstack/react-query';
@@ -33,6 +33,19 @@ const SalesLineChart = () => {
                             }
                         ],
                         options: {
+                            title: {
+                                text: 'Total Sales',
+                                align: 'left',
+                                margin: 10,
+                                offsetX: 0,
+                                offsetY: 0,
+                                floating: false,
+                                style: {
+                                  fontSize:  '14px',
+                                  fontWeight:  'bold',
+                                  color:  '#263238'
+                                },
+                            },
                             grid:{
                                 show:false
                             },
@@ -84,7 +97,7 @@ if(isLoading){
 }
     return (
 
-        <Chart options={data.options} series={data.series} type="line" height={'400px'} />
+        <Chart options={data.options} series={data.series} type="line" height={'350px'} />
 
     );
 };

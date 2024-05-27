@@ -5,7 +5,9 @@
         "location": "29704 Ann Points Suite 408, Lake Randy, WI 45151",
         "phone_number": "+1-448-884-9395",
         "email": "scook@example.net",
-        "manager_name": "Christine Frank"
+        "manager_name": "Christine Frank",
+        "lat":45.660890,
+        "long":-89.394780
     },
     {
         "dealership_id": "fb9340be-490e-44a3-8021-0fa3422fcd46",
@@ -13,7 +15,9 @@
         "location": "7710 Mcintyre Forest, Johnsonland, MI 31094",
         "phone_number": "(690)938-0033x623",
         "email": "hbell@example.org",
-        "manager_name": "Angel Merritt"
+        "manager_name": "Angel Merritt",
+        "lat":45.831560,
+        "long":-89.091090
     },
     {
         "dealership_id": "da34c308-d2ed-40cf-9ee5-5673f30454c1",
@@ -21,7 +25,9 @@
         "location": "8052 Stephen Lane, Sharpberg, WY 81697",
         "phone_number": "001-668-350-3315x50398",
         "email": "mcleanryan@example.com",
-        "manager_name": "Jessica Rivers"
+        "manager_name": "Jessica Rivers",
+        "lat":35.498290,
+        "long":-76.717670
     },
     {
         "dealership_id": "e833a539-5919-43f9-a2c1-958aca247919",
@@ -29,7 +35,9 @@
         "location": "2431 Taylor Islands Suite 627, Simmonsshire, NJ 77685",
         "phone_number": "292.814.4049x132",
         "email": "joshualowe@example.org",
-        "manager_name": "Laura Gutierrez"
+        "manager_name": "Laura Gutierrez",
+        "lat":38.018720,
+        "long":-121.651150
     },
     {
         "dealership_id": "e8614338-0860-49c0-b24e-74e1bd77fdee",
@@ -37,7 +45,9 @@
         "location": "26975 Carter Island Suite 226, East Davidton, AL 68013",
         "phone_number": "+1-491-463-8650x1271",
         "email": "hurleybrianna@example.net",
-        "manager_name": "Katherine Holloway"
+        "manager_name": "Katherine Holloway",
+        "lat":33.008750,
+        "long":-85.759100
     },
     {
         "dealership_id": "0a21a1a4-4f9d-4fe9-8453-8767e1627b1b",
@@ -45,7 +55,9 @@
         "location": "5882 Smith Extensions, Smithbury, WI 86476",
         "phone_number": "686-469-0545x7977",
         "email": "idavis@example.com",
-        "manager_name": "Ann Lee"
+        "manager_name": "Ann Lee",
+        "lat":33.008750,
+        "long":-85.759100
     },
     {
         "dealership_id": "8d8c6354-4f4f-4a21-9313-7279572fe84a",
@@ -53,7 +65,9 @@
         "location": "16014 Angela Springs, Lake Hannah, NH 15013",
         "phone_number": "487-252-9954",
         "email": "michael99@example.net",
-        "manager_name": "Christopher Scott"
+        "manager_name": "Christopher Scott",
+        "lat":33.008750,
+        "long":-85.759100
     },
     {
         "dealership_id": "740b1d5c-fdce-4fd5-a580-00d88d67460d",
@@ -61,7 +75,9 @@
         "location": "5946 Davidson Parkways Apt. 750, Lake Karen, MT 82227",
         "phone_number": "(604)966-7264",
         "email": "henry45@example.org",
-        "manager_name": "Sophia Golden"
+        "manager_name": "Sophia Golden",
+        "lat":33.008750,
+        "long":-85.759100
     },
     {
         "dealership_id": "42acee1d-bab3-45f3-8870-4b5404d0b99a",
@@ -69,7 +85,9 @@
         "location": "3996 Randall Fall, Alexandriaborough, OR 02372",
         "phone_number": "(233)311-9721",
         "email": "timothyhall@example.com",
-        "manager_name": "Anita Scott"
+        "manager_name": "Anita Scott",
+        "lat":33.008750,
+        "long":-85.759100
     },
     {
         "dealership_id": "97b27055-5839-44c1-907b-f24edf6d103f",
@@ -77,6 +95,8 @@
         "location": "PSC 3804, Box 4188, APO AP 98152",
         "phone_number": "536-469-1838x10196",
         "email": "jlee@example.com",
-        "manager_name": "Michael Rojas"
+        "manager_name": "Michael Rojas",
+        "lat":33.008750,
+        "long":-85.759100
     }
 ]
